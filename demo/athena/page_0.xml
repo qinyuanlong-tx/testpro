@@ -1,0 +1,2344 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<athena version='1.4.0.0'>
+
+<page index='1'>
+
+	<line pos='40,58' size='400,17' baseline='15' txt='6,63'>
+		<setfont name='FZLanTingHei-R-GBK' size='18'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='40,73'>第</text>
+		<text pos='58,73'>一</text>
+		<text pos='76,73'>回</text>
+		<text pos='94,73'>一</text>
+		<text pos='112,73'>霎</text>
+		<text pos='130,73'>狂</text>
+		<text pos='148,73'>潮</text>
+		<text pos='166,73'>陆</text>
+		<text pos='184,73'>沉</text>
+		<text pos='202,73'>奴</text>
+		<text pos='220,73'>乐</text>
+		<text pos='238,73'>岛</text>
+		<text pos='256,73'>卅</text>
+		<text pos='274,73'>年</text>
+		<text pos='292,73'>影</text>
+		<text pos='310,73'>事</text>
+		<text pos='328,73'>托</text>
+		<text pos='346,73'>写</text>
+		<text pos='364,73'>自</text>
+		<text pos='382,73'>由</text>
+		<text pos='400,73'>花</text>
+	</line>
+	<line pos='40,104' size='400,16' baseline='14' txt='75,69'>
+		<setfont name='FZLanTingHei-R-GBK' size='16'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='72,118'>江</text>
+		<text pos='88,118'>山</text>
+		<text pos='104,118'>吟</text>
+		<text pos='120,118'>罢</text>
+		<text pos='136,118'>精</text>
+		<text pos='152,118'>灵</text>
+		<text pos='168,118'>泣</text>
+		<text pos='184,118'>，</text>
+		<text pos='200,118'>中</text>
+		<text pos='216,118'>原</text>
+		<text pos='232,118'>自</text>
+		<text pos='248,118'>由</text>
+		<text pos='264,118'>魂</text>
+		<text pos='280,118'>断</text>
+		<text pos='296,118'>！</text>
+		<text pos='312,118'>金</text>
+		<text pos='328,118'>殿</text>
+		<text pos='344,118'>才</text>
+		<text pos='360,118'>人</text>
+		<text pos='376,118'>，</text>
+		<text pos='392,118'>平</text>
+		<text pos='408,118'>康</text>
+		<text pos='424,118'>佳</text>
+	</line>
+	<line pos='40,129' size='400,16' baseline='14' txt='144,75'>
+		<setfont name='FZLanTingHei-R-GBK' size='16'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='40,143'>丽</text>
+		<text pos='56,143'>，</text>
+		<text pos='72,143'>间</text>
+		<text pos='89,143'>气</text>
+		<text pos='105,143'>钟</text>
+		<text pos='121,143'>情</text>
+		<text pos='138,143'>吴</text>
+		<text pos='154,143'>苑</text>
+		<text pos='170,143'>。</text>
+		<text pos='187,143'>輶</text>
+		<text pos='203,143'>轩</text>
+		<text pos='219,143'>西</text>
+		<text pos='236,143'>展</text>
+		<text pos='252,143'>，</text>
+		<text pos='268,143'>遽</text>
+		<text pos='285,143'>瞒</text>
+		<text pos='301,143'>着</text>
+		<text pos='317,143'>灵</text>
+		<text pos='334,143'>根</text>
+		<text pos='350,143'>，</text>
+		<text pos='366,143'>暗</text>
+		<text pos='383,143'>通</text>
+		<text pos='399,143'>瑶</text>
+		<text pos='415,143'>怨</text>
+		<text pos='432,143'>。</text>
+	</line>
+	<line pos='40,154' size='400,16' baseline='14' txt='219,72'>
+		<setfont name='FZLanTingHei-R-GBK' size='16'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='40,168'>孽</text>
+		<text pos='56,168'>海</text>
+		<text pos='73,168'>飘</text>
+		<text pos='90,168'>流</text>
+		<text pos='106,168'>，</text>
+		<text pos='123,168'>前</text>
+		<text pos='140,168'>生</text>
+		<text pos='156,168'>冤</text>
+		<text pos='173,168'>果</text>
+		<text pos='190,168'>此</text>
+		<text pos='206,168'>生</text>
+		<text pos='223,168'>判</text>
+		<text pos='240,168'>。</text>
+		<text pos='257,168'>群</text>
+		<text pos='273,168'>龙</text>
+		<text pos='290,168'>九</text>
+		<text pos='307,168'>馗</text>
+		<text pos='323,168'>宵</text>
+		<text pos='340,168'>战</text>
+		<text pos='357,168'>，</text>
+		<text pos='373,168'>值</text>
+		<text pos='390,168'>钧</text>
+		<text pos='407,168'>天</text>
+		<text pos='424,168'>烂</text>
+	</line>
+	<line pos='40,179' size='400,16' baseline='14' txt='291,75'>
+		<setfont name='FZLanTingHei-R-GBK' size='16'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='40,193'>醉</text>
+		<text pos='56,193'>，</text>
+		<text pos='72,193'>梦</text>
+		<text pos='88,193'>魂</text>
+		<text pos='104,193'>惊</text>
+		<text pos='120,193'>颤</text>
+		<text pos='136,193'>。</text>
+		<text pos='152,193'>虎</text>
+		<text pos='168,193'>神</text>
+		<text pos='184,193'>营</text>
+		<text pos='200,193'>荒</text>
+		<text pos='216,193'>，</text>
+		<text pos='232,193'>鸾</text>
+		<text pos='248,193'>仪</text>
+		<text pos='264,193'>殿</text>
+		<text pos='280,193'>辞</text>
+		<text pos='296,193'>，</text>
+		<text pos='312,193'>输</text>
+		<text pos='328,193'>尔</text>
+		<text pos='344,193'>外</text>
+		<text pos='360,193'>交</text>
+		<text pos='376,193'>纤</text>
+		<text pos='392,193'>腕</text>
+		<text pos='408,193'>。</text>
+		<text pos='424,193'>大</text>
+	</line>
+	<line pos='40,204' size='400,16' baseline='14' txt='366,72'>
+		<setfont name='FZLanTingHei-R-GBK' size='16'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='40,218'>千</text>
+		<text pos='56,218'>公</text>
+		<text pos='73,218'>案</text>
+		<text pos='90,218'>，</text>
+		<text pos='106,218'>又</text>
+		<text pos='123,218'>天</text>
+		<text pos='140,218'>眼</text>
+		<text pos='156,218'>愁</text>
+		<text pos='173,218'>胡</text>
+		<text pos='190,218'>，</text>
+		<text pos='206,218'>人</text>
+		<text pos='223,218'>心</text>
+		<text pos='240,218'>思</text>
+		<text pos='257,218'>汉</text>
+		<text pos='273,218'>。</text>
+		<text pos='290,218'>自</text>
+		<text pos='307,218'>由</text>
+		<text pos='323,218'>花</text>
+		<text pos='340,218'>神</text>
+		<text pos='357,218'>，</text>
+		<text pos='373,218'>付</text>
+		<text pos='390,218'>东</text>
+		<text pos='407,218'>风</text>
+		<text pos='424,218'>拘</text>
+	</line>
+	<line pos='40,229' size='400,16' baseline='14' txt='438,6'>
+		<setfont name='FZLanTingHei-R-GBK' size='16'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='40,243'>管</text>
+		<text pos='56,243'>。</text>
+	</line>
+	<line pos='40,270' size='400,16' baseline='14' txt='450,69'>
+		<setfont name='FZLanTingHei-R-GBK' size='16'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='72,284'>却</text>
+		<text pos='88,284'>说</text>
+		<text pos='104,284'>自</text>
+		<text pos='120,284'>由</text>
+		<text pos='137,284'>神</text>
+		<text pos='153,284'>，</text>
+		<text pos='169,284'>是</text>
+		<text pos='186,284'>哪</text>
+		<text pos='202,284'>一</text>
+		<text pos='218,284'>位</text>
+		<text pos='235,284'>列</text>
+		<text pos='251,284'>圣</text>
+		<text pos='267,284'>？</text>
+		<text pos='284,284'>敕</text>
+		<text pos='300,284'>封</text>
+		<text pos='316,284'>何</text>
+		<text pos='333,284'>朝</text>
+		<text pos='349,284'>？</text>
+		<text pos='365,284'>铸</text>
+		<text pos='382,284'>象</text>
+		<text pos='398,284'>何</text>
+		<text pos='414,284'>地</text>
+		<text pos='431,284'>？</text>
+	</line>
+	<line pos='40,295' size='400,16' baseline='14' txt='519,75'>
+		<setfont name='FZLanTingHei-R-GBK' size='16'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='40,309'>说</text>
+		<text pos='56,309'>也</text>
+		<text pos='72,309'>话</text>
+		<text pos='88,309'>长</text>
+		<text pos='104,309'>。</text>
+		<text pos='120,309'>如</text>
+		<text pos='136,309'>今</text>
+		<text pos='152,309'>先</text>
+		<text pos='168,309'>说</text>
+		<text pos='184,309'>个</text>
+		<text pos='200,309'>极</text>
+		<text pos='216,309'>野</text>
+		<text pos='232,309'>蛮</text>
+		<text pos='248,309'>自</text>
+		<text pos='264,309'>由</text>
+		<text pos='280,309'>的</text>
+		<text pos='296,309'>奴</text>
+		<text pos='312,309'>隶</text>
+		<text pos='328,309'>国</text>
+		<text pos='344,309'>。</text>
+		<text pos='360,309'>在</text>
+		<text pos='376,309'>地</text>
+		<text pos='392,309'>球</text>
+		<text pos='408,309'>五</text>
+		<text pos='424,309'>大</text>
+	</line>
+	<line pos='40,320' size='400,16' baseline='14' txt='594,75'>
+		<setfont name='FZLanTingHei-R-GBK' size='16'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='40,334'>洋</text>
+		<text pos='56,334'>之</text>
+		<text pos='72,334'>外</text>
+		<text pos='88,334'>，</text>
+		<text pos='104,334'>哥</text>
+		<text pos='120,334'>伦</text>
+		<text pos='136,334'>布</text>
+		<text pos='152,334'>未</text>
+		<text pos='168,334'>辟</text>
+		<text pos='184,334'>，</text>
+		<text pos='200,334'>麦</text>
+		<text pos='216,334'>哲</text>
+		<text pos='232,334'>伦</text>
+		<text pos='248,334'>不</text>
+		<text pos='264,334'>到</text>
+		<text pos='280,334'>的</text>
+		<text pos='296,334'>地</text>
+		<text pos='312,334'>方</text>
+		<text pos='328,334'>，</text>
+		<text pos='344,334'>是</text>
+		<text pos='360,334'>一</text>
+		<text pos='376,334'>个</text>
+		<text pos='392,334'>大</text>
+		<text pos='408,334'>大</text>
+		<text pos='424,334'>的</text>
+	</line>
+	<line pos='40,345' size='400,17' baseline='15' txt='669,69'>
+		<setfont name='FZLanTingHei-R-GBK' size='16'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='40,360'>海</text>
+		<text pos='57,360'>，</text>
+		<text pos='75,360'>叫</text>
+		<text pos='93,360'>做</text>
+		<text pos='110,360'>“</text>
+		<text pos='128,360'>孽</text>
+		<text pos='146,360'>海</text>
+		<text pos='164,360'>”</text>
+		<text pos='175,360'>。</text>
+		<text pos='193,360'>那</text>
+		<text pos='211,360'>海</text>
+		<text pos='229,360'>里</text>
+		<text pos='246,360'>头</text>
+		<text pos='264,360'>有</text>
+		<text pos='282,360'>一</text>
+		<text pos='299,360'>个</text>
+		<text pos='317,360'>岛</text>
+		<text pos='335,360'>，</text>
+		<text pos='353,360'>叫</text>
+		<text pos='370,360'>做</text>
+		<text pos='388,360'>“</text>
+		<text pos='406,360'>奴</text>
+		<text pos='424,360'>乐</text>
+	</line>
+	<line pos='40,370' size='400,17' baseline='15' txt='738,78'>
+		<setfont name='FZLanTingHei-R-GBK' size='16'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='40,385'>岛</text>
+		<text pos='56,385'>”</text>
+		<text pos='66,385'>。</text>
+		<text pos='82,385'>地</text>
+		<text pos='98,385'>近</text>
+		<text pos='114,385'>北</text>
+		<text pos='130,385'>纬</text>
+		<text pos='146,385'>三</text>
+		<text pos='162,385'>十</text>
+		<text pos='178,385'>度</text>
+		<text pos='194,385'>，</text>
+		<text pos='210,385'>东</text>
+		<text pos='226,385'>经</text>
+		<text pos='242,385'>一</text>
+		<text pos='258,385'>百</text>
+		<text pos='274,385'>八</text>
+		<text pos='290,385'>十</text>
+		<text pos='306,385'>度</text>
+		<text pos='322,385'>。</text>
+		<text pos='338,385'>倒</text>
+		<text pos='354,385'>是</text>
+		<text pos='370,385'>山</text>
+		<text pos='386,385'>川</text>
+		<text pos='402,385'>明</text>
+		<text pos='418,385'>丽</text>
+		<text pos='434,385'>，</text>
+	</line>
+	<line pos='40,395' size='400,16' baseline='14' txt='816,75'>
+		<setfont name='FZLanTingHei-R-GBK' size='16'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='40,409'>花</text>
+		<text pos='56,409'>木</text>
+		<text pos='72,409'>美</text>
+		<text pos='88,409'>秀</text>
+		<text pos='104,409'>；</text>
+		<text pos='120,409'>终</text>
+		<text pos='136,409'>年</text>
+		<text pos='152,409'>光</text>
+		<text pos='168,409'>景</text>
+		<text pos='184,409'>是</text>
+		<text pos='200,409'>天</text>
+		<text pos='216,409'>低</text>
+		<text pos='232,409'>云</text>
+		<text pos='248,409'>黯</text>
+		<text pos='264,409'>，</text>
+		<text pos='280,409'>半</text>
+		<text pos='296,409'>阴</text>
+		<text pos='312,409'>不</text>
+		<text pos='328,409'>晴</text>
+		<text pos='344,409'>，</text>
+		<text pos='360,409'>所</text>
+		<text pos='376,409'>以</text>
+		<text pos='392,409'>天</text>
+		<text pos='408,409'>空</text>
+		<text pos='424,409'>新</text>
+	</line>
+	<line pos='40,420' size='400,16' baseline='14' txt='891,75'>
+		<setfont name='FZLanTingHei-R-GBK' size='16'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='40,434'>气</text>
+		<text pos='56,434'>是</text>
+		<text pos='72,434'>极</text>
+		<text pos='88,434'>缺</text>
+		<text pos='104,434'>乏</text>
+		<text pos='120,434'>的</text>
+		<text pos='136,434'>。</text>
+		<text pos='152,434'>列</text>
+		<text pos='168,434'>位</text>
+		<text pos='184,434'>想</text>
+		<text pos='200,434'>想</text>
+		<text pos='216,434'>：</text>
+		<text pos='232,434'>那</text>
+		<text pos='248,434'>人</text>
+		<text pos='264,434'>所</text>
+		<text pos='280,434'>靠</text>
+		<text pos='296,434'>着</text>
+		<text pos='312,434'>呼</text>
+		<text pos='328,434'>吸</text>
+		<text pos='344,434'>的</text>
+		<text pos='360,434'>天</text>
+		<text pos='376,434'>空</text>
+		<text pos='392,434'>气</text>
+		<text pos='408,434'>，</text>
+		<text pos='424,434'>犹</text>
+	</line>
+	<line pos='40,445' size='400,16' baseline='14' txt='966,75'>
+		<setfont name='FZLanTingHei-R-GBK' size='16'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='40,459'>之</text>
+		<text pos='56,459'>那</text>
+		<text pos='72,459'>国</text>
+		<text pos='89,459'>民</text>
+		<text pos='105,459'>所</text>
+		<text pos='122,459'>靠</text>
+		<text pos='138,459'>着</text>
+		<text pos='154,459'>生</text>
+		<text pos='171,459'>活</text>
+		<text pos='187,459'>的</text>
+		<text pos='204,459'>自</text>
+		<text pos='220,459'>由</text>
+		<text pos='237,459'>，</text>
+		<text pos='253,459'>如</text>
+		<text pos='269,459'>何</text>
+		<text pos='286,459'>缺</text>
+		<text pos='302,459'>得</text>
+		<text pos='319,459'>！</text>
+		<text pos='335,459'>因</text>
+		<text pos='351,459'>是</text>
+		<text pos='368,459'>一</text>
+		<text pos='384,459'>般</text>
+		<text pos='401,459'>国</text>
+		<text pos='417,459'>民</text>
+		<text pos='434,459'>，</text>
+	</line>
+	<line pos='40,470' size='400,16' baseline='14' txt='1041,75'>
+		<setfont name='FZLanTingHei-R-GBK' size='16'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='40,484'>没</text>
+		<text pos='56,484'>有</text>
+		<text pos='72,484'>一</text>
+		<text pos='88,484'>个</text>
+		<text pos='104,484'>不</text>
+		<text pos='120,484'>是</text>
+		<text pos='136,484'>奄</text>
+		<text pos='152,484'>奄</text>
+		<text pos='168,484'>一</text>
+		<text pos='184,484'>息</text>
+		<text pos='200,484'>，</text>
+		<text pos='216,484'>偷</text>
+		<text pos='232,484'>生</text>
+		<text pos='248,484'>苟</text>
+		<text pos='264,484'>活</text>
+		<text pos='280,484'>。</text>
+		<text pos='296,484'>因</text>
+		<text pos='312,484'>是</text>
+		<text pos='328,484'>养</text>
+		<text pos='344,484'>成</text>
+		<text pos='360,484'>一</text>
+		<text pos='376,484'>种</text>
+		<text pos='392,484'>崇</text>
+		<text pos='408,484'>拜</text>
+		<text pos='424,484'>强</text>
+	</line>
+	<line pos='40,495' size='400,16' baseline='14' txt='1116,75'>
+		<setfont name='FZLanTingHei-R-GBK' size='16'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='40,509'>权</text>
+		<text pos='56,509'>、</text>
+		<text pos='72,509'>献</text>
+		<text pos='88,509'>媚</text>
+		<text pos='104,509'>异</text>
+		<text pos='120,509'>族</text>
+		<text pos='136,509'>的</text>
+		<text pos='152,509'>性</text>
+		<text pos='168,509'>格</text>
+		<text pos='184,509'>，</text>
+		<text pos='200,509'>传</text>
+		<text pos='216,509'>下</text>
+		<text pos='232,509'>来</text>
+		<text pos='248,509'>一</text>
+		<text pos='264,509'>种</text>
+		<text pos='280,509'>什</text>
+		<text pos='296,509'>么</text>
+		<text pos='312,509'>运</text>
+		<text pos='328,509'>命</text>
+		<text pos='344,509'>，</text>
+		<text pos='360,509'>什</text>
+		<text pos='376,509'>么</text>
+		<text pos='392,509'>因</text>
+		<text pos='408,509'>果</text>
+		<text pos='424,509'>的</text>
+	</line>
+	<line pos='40,520' size='400,16' baseline='14' txt='1191,75'>
+		<setfont name='FZLanTingHei-R-GBK' size='16'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='40,534'>迷</text>
+		<text pos='56,534'>信</text>
+		<text pos='72,534'>。</text>
+		<text pos='88,534'>因</text>
+		<text pos='104,534'>是</text>
+		<text pos='120,534'>那</text>
+		<text pos='136,534'>一</text>
+		<text pos='152,534'>种</text>
+		<text pos='168,534'>帝</text>
+		<text pos='184,534'>王</text>
+		<text pos='200,534'>，</text>
+		<text pos='216,534'>暴</text>
+		<text pos='232,534'>也</text>
+		<text pos='248,534'>暴</text>
+		<text pos='264,534'>到</text>
+		<text pos='280,534'>吕</text>
+		<text pos='296,534'>政</text>
+		<text pos='312,534'>、</text>
+		<text pos='328,534'>奥</text>
+		<text pos='344,534'>古</text>
+		<text pos='360,534'>士</text>
+		<text pos='376,534'>都</text>
+		<text pos='392,534'>、</text>
+		<text pos='408,534'>成</text>
+		<text pos='424,534'>吉</text>
+	</line>
+	<line pos='40,545' size='400,16' baseline='14' txt='1266,75'>
+		<setfont name='FZLanTingHei-R-GBK' size='16'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='40,559'>思</text>
+		<text pos='56,559'>汗</text>
+		<text pos='72,559'>、</text>
+		<text pos='88,559'>路</text>
+		<text pos='104,559'>易</text>
+		<text pos='120,559'>十</text>
+		<text pos='136,559'>四</text>
+		<text pos='152,559'>的</text>
+		<text pos='168,559'>地</text>
+		<text pos='184,559'>位</text>
+		<text pos='200,559'>，</text>
+		<text pos='216,559'>昏</text>
+		<text pos='232,559'>也</text>
+		<text pos='248,559'>昏</text>
+		<text pos='264,559'>到</text>
+		<text pos='280,559'>隋</text>
+		<text pos='296,559'>炀</text>
+		<text pos='312,559'>帝</text>
+		<text pos='328,559'>、</text>
+		<text pos='344,559'>李</text>
+		<text pos='360,559'>后</text>
+		<text pos='376,559'>主</text>
+		<text pos='392,559'>、</text>
+		<text pos='408,559'>查</text>
+		<text pos='424,559'>理</text>
+	</line>
+	<line pos='40,570' size='400,16' baseline='14' txt='1341,75'>
+		<setfont name='FZLanTingHei-R-GBK' size='16'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='40,584'>士</text>
+		<text pos='56,584'>、</text>
+		<text pos='72,584'>路</text>
+		<text pos='88,584'>易</text>
+		<text pos='104,584'>十</text>
+		<text pos='120,584'>六</text>
+		<text pos='136,584'>的</text>
+		<text pos='152,584'>地</text>
+		<text pos='168,584'>位</text>
+		<text pos='184,584'>；</text>
+		<text pos='200,584'>那</text>
+		<text pos='216,584'>一</text>
+		<text pos='232,584'>种</text>
+		<text pos='248,584'>国</text>
+		<text pos='264,584'>民</text>
+		<text pos='280,584'>，</text>
+		<text pos='296,584'>顽</text>
+		<text pos='312,584'>也</text>
+		<text pos='328,584'>顽</text>
+		<text pos='344,584'>到</text>
+		<text pos='360,584'>冯</text>
+		<text pos='376,584'>道</text>
+		<text pos='392,584'>、</text>
+		<text pos='408,584'>钱</text>
+		<text pos='424,584'>谦</text>
+	</line>
+	<line pos='40,595' size='400,16' baseline='14' txt='1416,75'>
+		<setfont name='FZLanTingHei-R-GBK' size='16'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='40,609'>益</text>
+		<text pos='56,609'>的</text>
+		<text pos='72,609'>地</text>
+		<text pos='88,609'>位</text>
+		<text pos='104,609'>，</text>
+		<text pos='120,609'>秀</text>
+		<text pos='136,609'>也</text>
+		<text pos='152,609'>秀</text>
+		<text pos='168,609'>到</text>
+		<text pos='184,609'>扬</text>
+		<text pos='200,609'>雄</text>
+		<text pos='216,609'>、</text>
+		<text pos='232,609'>赵</text>
+		<text pos='248,609'>子</text>
+		<text pos='264,609'>昂</text>
+		<text pos='280,609'>的</text>
+		<text pos='296,609'>地</text>
+		<text pos='312,609'>位</text>
+		<text pos='328,609'>。</text>
+		<text pos='344,609'>而</text>
+		<text pos='360,609'>且</text>
+		<text pos='376,609'>那</text>
+		<text pos='392,609'>岛</text>
+		<text pos='408,609'>从</text>
+		<text pos='424,609'>古</text>
+	</line>
+</page>
+<page index='2'>
+		<save/>
+		<path verb='moveto' pos='0,0'/>
+		<path verb='lineto' pos='480,0'/>
+		<path verb='lineto' pos='480,700'/>
+		<path verb='lineto' pos='0,700'/>
+		<path verb='lineto' pos='0,0'/>
+		<path verb='close'/>
+		<clip/>
+		<setcolor val='rgb(255,255,255)'/>
+		<path verb='rect' pos='0,0' size='480,700'/>
+		<fill/>
+		<restore/>
+	<line pos='40,40' size='400,16' baseline='14' txt='1491,75'>
+		<setfont name='FZLanTingHei-R-GBK' size='16'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='40,54'>不</text>
+		<text pos='56,54'>与</text>
+		<text pos='72,54'>别</text>
+		<text pos='88,54'>国</text>
+		<text pos='104,54'>交</text>
+		<text pos='120,54'>通</text>
+		<text pos='136,54'>，</text>
+		<text pos='152,54'>所</text>
+		<text pos='168,54'>以</text>
+		<text pos='184,54'>别</text>
+		<text pos='200,54'>国</text>
+		<text pos='216,54'>也</text>
+		<text pos='232,54'>不</text>
+		<text pos='248,54'>晓</text>
+		<text pos='264,54'>得</text>
+		<text pos='280,54'>他</text>
+		<text pos='296,54'>的</text>
+		<text pos='312,54'>名</text>
+		<text pos='328,54'>字</text>
+		<text pos='344,54'>。</text>
+		<text pos='360,54'>从</text>
+		<text pos='376,54'>古</text>
+		<text pos='392,54'>没</text>
+		<text pos='408,54'>有</text>
+		<text pos='424,54'>呼</text>
+	</line>
+	<line pos='40,65' size='400,17' baseline='15' txt='1566,66'>
+		<setfont name='FZLanTingHei-R-GBK' size='16'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='40,80'>吸</text>
+		<text pos='58,80'>自</text>
+		<text pos='77,80'>由</text>
+		<text pos='95,80'>的</text>
+		<text pos='114,80'>空</text>
+		<text pos='132,80'>气</text>
+		<text pos='151,80'>，</text>
+		<text pos='170,80'>那</text>
+		<text pos='188,80'>国</text>
+		<text pos='207,80'>民</text>
+		<text pos='225,80'>却</text>
+		<text pos='244,80'>自</text>
+		<text pos='262,80'>以</text>
+		<text pos='281,80'>为</text>
+		<text pos='300,80'>是</text>
+		<text pos='318,80'>：</text>
+		<text pos='337,80'>有</text>
+		<text pos='355,80'>“</text>
+		<text pos='374,80'>吃</text>
+		<text pos='392,80'>”</text>
+		<text pos='405,80'>，</text>
+		<text pos='424,80'>有</text>
+	</line>
+	<line pos='40,90' size='400,17' baseline='15' txt='1632,75'>
+		<setfont name='FZLanTingHei-R-GBK' size='16'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='40,105'>“</text>
+		<text pos='56,105'>着</text>
+		<text pos='73,105'>”</text>
+		<text pos='84,105'>，</text>
+		<text pos='100,105'>有</text>
+		<text pos='117,105'>“</text>
+		<text pos='134,105'>功</text>
+		<text pos='150,105'>名</text>
+		<text pos='167,105'>”</text>
+		<text pos='178,105'>，</text>
+		<text pos='194,105'>有</text>
+		<text pos='211,105'>“</text>
+		<text pos='228,105'>妻</text>
+		<text pos='244,105'>子</text>
+		<text pos='261,105'>”</text>
+		<text pos='272,105'>，</text>
+		<text pos='288,105'>是</text>
+		<text pos='305,105'>个</text>
+		<text pos='322,105'>“</text>
+		<text pos='338,105'>自</text>
+		<text pos='355,105'>由</text>
+		<text pos='372,105'>极</text>
+		<text pos='388,105'>乐</text>
+		<text pos='405,105'>”</text>
+		<text pos='424,105'>之</text>
+	</line>
+	<line pos='40,115' size='400,17' baseline='15' txt='1707,75'>
+		<setfont name='FZLanTingHei-R-GBK' size='16'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='40,130'>国</text>
+		<text pos='56,130'>。</text>
+		<text pos='72,130'>古</text>
+		<text pos='88,130'>人</text>
+		<text pos='105,130'>说</text>
+		<text pos='121,130'>得</text>
+		<text pos='137,130'>好</text>
+		<text pos='153,130'>：</text>
+		<text pos='170,130'>“</text>
+		<text pos='186,130'>不</text>
+		<text pos='202,130'>自</text>
+		<text pos='218,130'>由</text>
+		<text pos='235,130'>毋</text>
+		<text pos='251,130'>宁</text>
+		<text pos='267,130'>死</text>
+		<text pos='283,130'>。</text>
+		<text pos='292,130'>”</text>
+		<text pos='310,130'>果</text>
+		<text pos='326,130'>然</text>
+		<text pos='342,130'>那</text>
+		<text pos='359,130'>国</text>
+		<text pos='375,130'>民</text>
+		<text pos='391,130'>享</text>
+		<text pos='407,130'>尽</text>
+		<text pos='424,130'>了</text>
+	</line>
+	<line pos='40,140' size='400,16' baseline='14' txt='1782,75'>
+		<setfont name='FZLanTingHei-R-GBK' size='16'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='40,154'>野</text>
+		<text pos='56,154'>蛮</text>
+		<text pos='72,154'>奴</text>
+		<text pos='88,154'>隶</text>
+		<text pos='104,154'>自</text>
+		<text pos='120,154'>由</text>
+		<text pos='136,154'>之</text>
+		<text pos='152,154'>福</text>
+		<text pos='168,154'>，</text>
+		<text pos='184,154'>死</text>
+		<text pos='200,154'>期</text>
+		<text pos='216,154'>到</text>
+		<text pos='232,154'>了</text>
+		<text pos='248,154'>。</text>
+		<text pos='264,154'>去</text>
+		<text pos='280,154'>今</text>
+		<text pos='296,154'>五</text>
+		<text pos='312,154'>十</text>
+		<text pos='328,154'>年</text>
+		<text pos='344,154'>前</text>
+		<text pos='360,154'>，</text>
+		<text pos='376,154'>约</text>
+		<text pos='392,154'>莫</text>
+		<text pos='408,154'>十</text>
+		<text pos='424,154'>九</text>
+	</line>
+	<line pos='40,165' size='400,16' baseline='14' txt='1857,75'>
+		<setfont name='FZLanTingHei-R-GBK' size='16'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='40,179'>世</text>
+		<text pos='56,179'>纪</text>
+		<text pos='72,179'>中</text>
+		<text pos='88,179'>段</text>
+		<text pos='104,179'>，</text>
+		<text pos='120,179'>那</text>
+		<text pos='136,179'>奴</text>
+		<text pos='152,179'>乐</text>
+		<text pos='168,179'>岛</text>
+		<text pos='184,179'>忽</text>
+		<text pos='200,179'>然</text>
+		<text pos='216,179'>四</text>
+		<text pos='232,179'>周</text>
+		<text pos='248,179'>起</text>
+		<text pos='264,179'>了</text>
+		<text pos='280,179'>怪</text>
+		<text pos='296,179'>风</text>
+		<text pos='312,179'>大</text>
+		<text pos='328,179'>潮</text>
+		<text pos='344,179'>，</text>
+		<text pos='360,179'>那</text>
+		<text pos='376,179'>时</text>
+		<text pos='392,179'>这</text>
+		<text pos='408,179'>岛</text>
+		<text pos='424,179'>根</text>
+	</line>
+	<line pos='40,190' size='400,16' baseline='14' txt='1932,75'>
+		<setfont name='FZLanTingHei-R-GBK' size='16'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='40,204'>岌</text>
+		<text pos='56,204'>岌</text>
+		<text pos='72,204'>摇</text>
+		<text pos='88,204'>动</text>
+		<text pos='104,204'>，</text>
+		<text pos='120,204'>要</text>
+		<text pos='136,204'>被</text>
+		<text pos='152,204'>海</text>
+		<text pos='168,204'>若</text>
+		<text pos='184,204'>卷</text>
+		<text pos='200,204'>去</text>
+		<text pos='216,204'>的</text>
+		<text pos='232,204'>样</text>
+		<text pos='248,204'>子</text>
+		<text pos='264,204'>。</text>
+		<text pos='280,204'>谁</text>
+		<text pos='296,204'>知</text>
+		<text pos='312,204'>那</text>
+		<text pos='328,204'>一</text>
+		<text pos='344,204'>般</text>
+		<text pos='360,204'>国</text>
+		<text pos='376,204'>民</text>
+		<text pos='392,204'>，</text>
+		<text pos='408,204'>还</text>
+		<text pos='424,204'>是</text>
+	</line>
+	<line pos='40,215' size='400,16' baseline='14' txt='2007,75'>
+		<setfont name='FZLanTingHei-R-GBK' size='16'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='40,229'>醉</text>
+		<text pos='56,229'>生</text>
+		<text pos='72,229'>梦</text>
+		<text pos='88,229'>死</text>
+		<text pos='104,229'>，</text>
+		<text pos='120,229'>天</text>
+		<text pos='136,229'>天</text>
+		<text pos='152,229'>歌</text>
+		<text pos='168,229'>舞</text>
+		<text pos='184,229'>快</text>
+		<text pos='200,229'>乐</text>
+		<text pos='216,229'>，</text>
+		<text pos='232,229'>富</text>
+		<text pos='248,229'>贵</text>
+		<text pos='264,229'>风</text>
+		<text pos='280,229'>流</text>
+		<text pos='296,229'>，</text>
+		<text pos='312,229'>抚</text>
+		<text pos='328,229'>着</text>
+		<text pos='344,229'>自</text>
+		<text pos='360,229'>由</text>
+		<text pos='376,229'>之</text>
+		<text pos='392,229'>琴</text>
+		<text pos='408,229'>，</text>
+		<text pos='424,229'>喝</text>
+	</line>
+	<line pos='40,240' size='400,16' baseline='14' txt='2082,72'>
+		<setfont name='FZLanTingHei-R-GBK' size='16'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='40,254'>着</text>
+		<text pos='56,254'>自</text>
+		<text pos='73,254'>由</text>
+		<text pos='90,254'>之</text>
+		<text pos='106,254'>酒</text>
+		<text pos='123,254'>，</text>
+		<text pos='140,254'>赏</text>
+		<text pos='156,254'>着</text>
+		<text pos='173,254'>自</text>
+		<text pos='190,254'>由</text>
+		<text pos='206,254'>之</text>
+		<text pos='223,254'>花</text>
+		<text pos='240,254'>，</text>
+		<text pos='257,254'>年</text>
+		<text pos='273,254'>复</text>
+		<text pos='290,254'>一</text>
+		<text pos='307,254'>年</text>
+		<text pos='323,254'>，</text>
+		<text pos='340,254'>禁</text>
+		<text pos='357,254'>不</text>
+		<text pos='373,254'>得</text>
+		<text pos='390,254'>月</text>
+		<text pos='407,254'>啮</text>
+		<text pos='424,254'>日</text>
+	</line>
+	<line pos='40,265' size='400,16' baseline='14' txt='2154,75'>
+		<setfont name='FZLanTingHei-R-GBK' size='16'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='40,279'>蚀</text>
+		<text pos='56,279'>，</text>
+		<text pos='72,279'>到</text>
+		<text pos='89,279'>了</text>
+		<text pos='105,279'>一</text>
+		<text pos='122,279'>千</text>
+		<text pos='138,279'>九</text>
+		<text pos='154,279'>百</text>
+		<text pos='171,279'>零</text>
+		<text pos='187,279'>四</text>
+		<text pos='204,279'>年</text>
+		<text pos='220,279'>，</text>
+		<text pos='237,279'>平</text>
+		<text pos='253,279'>白</text>
+		<text pos='269,279'>地</text>
+		<text pos='286,279'>天</text>
+		<text pos='302,279'>崩</text>
+		<text pos='319,279'>地</text>
+		<text pos='335,279'>塌</text>
+		<text pos='351,279'>，</text>
+		<text pos='368,279'>一</text>
+		<text pos='384,279'>声</text>
+		<text pos='401,279'>响</text>
+		<text pos='417,279'>亮</text>
+		<text pos='434,279'>，</text>
+	</line>
+	<line pos='40,290' size='400,16' baseline='14' txt='2229,48'>
+		<setfont name='FZLanTingHei-R-GBK' size='16'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='40,304'>那</text>
+		<text pos='56,304'>奴</text>
+		<text pos='72,304'>乐</text>
+		<text pos='88,304'>岛</text>
+		<text pos='104,304'>的</text>
+		<text pos='120,304'>地</text>
+		<text pos='136,304'>面</text>
+		<text pos='152,304'>，</text>
+		<text pos='168,304'>直</text>
+		<text pos='184,304'>沉</text>
+		<text pos='200,304'>向</text>
+		<text pos='216,304'>孽</text>
+		<text pos='232,304'>海</text>
+		<text pos='248,304'>中</text>
+		<text pos='264,304'>去</text>
+		<text pos='280,304'>。</text>
+	</line>
+	<line pos='40,331' size='400,16' baseline='14' txt='2283,69'>
+		<setfont name='FZLanTingHei-R-GBK' size='16'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='72,345'>咦</text>
+		<text pos='88,345'>，</text>
+		<text pos='104,345'>咦</text>
+		<text pos='120,345'>，</text>
+		<text pos='136,345'>咦</text>
+		<text pos='152,345'>！</text>
+		<text pos='168,345'>原</text>
+		<text pos='184,345'>来</text>
+		<text pos='200,345'>这</text>
+		<text pos='216,345'>孽</text>
+		<text pos='232,345'>海</text>
+		<text pos='248,345'>和</text>
+		<text pos='264,345'>奴</text>
+		<text pos='280,345'>乐</text>
+		<text pos='296,345'>岛</text>
+		<text pos='312,345'>，</text>
+		<text pos='328,345'>却</text>
+		<text pos='344,345'>是</text>
+		<text pos='360,345'>接</text>
+		<text pos='376,345'>着</text>
+		<text pos='392,345'>中</text>
+		<text pos='408,345'>国</text>
+		<text pos='424,345'>地</text>
+	</line>
+	<line pos='40,356' size='400,16' baseline='14' txt='2352,75'>
+		<setfont name='FZLanTingHei-R-GBK' size='16'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='40,370'>面</text>
+		<text pos='56,370'>，</text>
+		<text pos='72,370'>在</text>
+		<text pos='88,370'>瀚</text>
+		<text pos='104,370'>海</text>
+		<text pos='120,370'>之</text>
+		<text pos='136,370'>南</text>
+		<text pos='152,370'>，</text>
+		<text pos='168,370'>黄</text>
+		<text pos='184,370'>海</text>
+		<text pos='200,370'>之</text>
+		<text pos='216,370'>西</text>
+		<text pos='232,370'>，</text>
+		<text pos='248,370'>青</text>
+		<text pos='264,370'>海</text>
+		<text pos='280,370'>之</text>
+		<text pos='296,370'>东</text>
+		<text pos='312,370'>，</text>
+		<text pos='328,370'>支</text>
+		<text pos='344,370'>那</text>
+		<text pos='360,370'>海</text>
+		<text pos='376,370'>之</text>
+		<text pos='392,370'>北</text>
+		<text pos='408,370'>。</text>
+		<text pos='424,370'>此</text>
+	</line>
+	<line pos='40,381' size='400,16' baseline='14' txt='2427,72'>
+		<setfont name='FZLanTingHei-R-GBK' size='16'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='40,395'>事</text>
+		<text pos='56,395'>一</text>
+		<text pos='73,395'>经</text>
+		<text pos='90,395'>发</text>
+		<text pos='106,395'>现</text>
+		<text pos='123,395'>，</text>
+		<text pos='140,395'>那</text>
+		<text pos='156,395'>中</text>
+		<text pos='173,395'>国</text>
+		<text pos='190,395'>第</text>
+		<text pos='206,395'>一</text>
+		<text pos='223,395'>通</text>
+		<text pos='240,395'>商</text>
+		<text pos='257,395'>码</text>
+		<text pos='273,395'>头</text>
+		<text pos='290,395'>的</text>
+		<text pos='307,395'>上</text>
+		<text pos='323,395'>海</text>
+		<text pos='340,395'>—</text>
+		<text pos='357,395'>—</text>
+		<text pos='373,395'>地</text>
+		<text pos='390,395'>球</text>
+		<text pos='407,395'>各</text>
+		<text pos='424,395'>国</text>
+	</line>
+	<line pos='40,406' size='400,16' baseline='14' txt='2499,75'>
+		<setfont name='FZLanTingHei-R-GBK' size='16'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='40,420'>人</text>
+		<text pos='56,420'>，</text>
+		<text pos='72,420'>都</text>
+		<text pos='88,420'>聚</text>
+		<text pos='104,420'>集</text>
+		<text pos='120,420'>在</text>
+		<text pos='136,420'>此</text>
+		<text pos='152,420'>地</text>
+		<text pos='168,420'>—</text>
+		<text pos='184,420'>—</text>
+		<text pos='200,420'>都</text>
+		<text pos='216,420'>道</text>
+		<text pos='232,420'>希</text>
+		<text pos='248,420'>罕</text>
+		<text pos='264,420'>，</text>
+		<text pos='280,420'>天</text>
+		<text pos='296,420'>天</text>
+		<text pos='312,420'>讨</text>
+		<text pos='328,420'>论</text>
+		<text pos='344,420'>的</text>
+		<text pos='360,420'>讨</text>
+		<text pos='376,420'>论</text>
+		<text pos='392,420'>，</text>
+		<text pos='408,420'>调</text>
+		<text pos='424,420'>查</text>
+	</line>
+	<line pos='40,431' size='400,16' baseline='14' txt='2574,75'>
+		<setfont name='FZLanTingHei-R-GBK' size='16'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='40,445'>的</text>
+		<text pos='56,445'>调</text>
+		<text pos='72,445'>查</text>
+		<text pos='88,445'>，</text>
+		<text pos='104,445'>秃</text>
+		<text pos='120,445'>着</text>
+		<text pos='136,445'>几</text>
+		<text pos='152,445'>打</text>
+		<text pos='168,445'>笔</text>
+		<text pos='184,445'>头</text>
+		<text pos='200,445'>，</text>
+		<text pos='216,445'>费</text>
+		<text pos='232,445'>着</text>
+		<text pos='248,445'>几</text>
+		<text pos='264,445'>磅</text>
+		<text pos='280,445'>纸</text>
+		<text pos='296,445'>墨</text>
+		<text pos='312,445'>，</text>
+		<text pos='328,445'>说</text>
+		<text pos='344,445'>着</text>
+		<text pos='360,445'>此</text>
+		<text pos='376,445'>事</text>
+		<text pos='392,445'>。</text>
+		<text pos='408,445'>内</text>
+		<text pos='424,445'>中</text>
+	</line>
+	<line pos='40,456' size='400,16' baseline='14' txt='2649,75'>
+		<setfont name='FZLanTingHei-R-GBK' size='16'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='40,470'>有</text>
+		<text pos='56,470'>个</text>
+		<text pos='72,470'>爱</text>
+		<text pos='88,470'>自</text>
+		<text pos='104,470'>由</text>
+		<text pos='120,470'>者</text>
+		<text pos='136,470'>闻</text>
+		<text pos='152,470'>信</text>
+		<text pos='168,470'>，</text>
+		<text pos='184,470'>特</text>
+		<text pos='200,470'>地</text>
+		<text pos='216,470'>赶</text>
+		<text pos='232,470'>到</text>
+		<text pos='248,470'>上</text>
+		<text pos='264,470'>海</text>
+		<text pos='280,470'>来</text>
+		<text pos='296,470'>，</text>
+		<text pos='312,470'>要</text>
+		<text pos='328,470'>想</text>
+		<text pos='344,470'>侦</text>
+		<text pos='360,470'>探</text>
+		<text pos='376,470'>侦</text>
+		<text pos='392,470'>探</text>
+		<text pos='408,470'>奴</text>
+		<text pos='424,470'>乐</text>
+	</line>
+	<line pos='40,481' size='400,16' baseline='14' txt='2724,75'>
+		<setfont name='FZLanTingHei-R-GBK' size='16'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='40,495'>岛</text>
+		<text pos='56,495'>的</text>
+		<text pos='72,495'>实</text>
+		<text pos='88,495'>在</text>
+		<text pos='104,495'>消</text>
+		<text pos='120,495'>息</text>
+		<text pos='136,495'>，</text>
+		<text pos='152,495'>却</text>
+		<text pos='168,495'>不</text>
+		<text pos='184,495'>知</text>
+		<text pos='200,495'>从</text>
+		<text pos='216,495'>何</text>
+		<text pos='232,495'>处</text>
+		<text pos='248,495'>问</text>
+		<text pos='264,495'>起</text>
+		<text pos='280,495'>。</text>
+		<text pos='296,495'>那</text>
+		<text pos='312,495'>日</text>
+		<text pos='328,495'>走</text>
+		<text pos='344,495'>出</text>
+		<text pos='360,495'>去</text>
+		<text pos='376,495'>，</text>
+		<text pos='392,495'>看</text>
+		<text pos='408,495'>看</text>
+		<text pos='424,495'>人</text>
+	</line>
+	<line pos='40,506' size='400,16' baseline='14' txt='2799,75'>
+		<setfont name='FZLanTingHei-R-GBK' size='16'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='40,520'>来</text>
+		<text pos='56,520'>人</text>
+		<text pos='72,520'>往</text>
+		<text pos='88,520'>，</text>
+		<text pos='104,520'>无</text>
+		<text pos='120,520'>非</text>
+		<text pos='136,520'>是</text>
+		<text pos='152,520'>那</text>
+		<text pos='168,520'>班</text>
+		<text pos='184,520'>肥</text>
+		<text pos='200,520'>头</text>
+		<text pos='216,520'>胖</text>
+		<text pos='232,520'>耳</text>
+		<text pos='248,520'>的</text>
+		<text pos='264,520'>洋</text>
+		<text pos='280,520'>行</text>
+		<text pos='296,520'>买</text>
+		<text pos='312,520'>办</text>
+		<text pos='328,520'>，</text>
+		<text pos='344,520'>偷</text>
+		<text pos='360,520'>天</text>
+		<text pos='376,520'>换</text>
+		<text pos='392,520'>日</text>
+		<text pos='408,520'>的</text>
+		<text pos='424,520'>新</text>
+	</line>
+	<line pos='40,531' size='400,16' baseline='14' txt='2874,75'>
+		<setfont name='FZLanTingHei-R-GBK' size='16'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='40,545'>政</text>
+		<text pos='56,545'>委</text>
+		<text pos='72,545'>员</text>
+		<text pos='88,545'>，</text>
+		<text pos='104,545'>短</text>
+		<text pos='120,545'>发</text>
+		<text pos='136,545'>西</text>
+		<text pos='152,545'>装</text>
+		<text pos='168,545'>的</text>
+		<text pos='184,545'>假</text>
+		<text pos='200,545'>革</text>
+		<text pos='216,545'>命</text>
+		<text pos='232,545'>党</text>
+		<text pos='248,545'>，</text>
+		<text pos='264,545'>胡</text>
+		<text pos='280,545'>说</text>
+		<text pos='296,545'>乱</text>
+		<text pos='312,545'>话</text>
+		<text pos='328,545'>的</text>
+		<text pos='344,545'>新</text>
+		<text pos='360,545'>闻</text>
+		<text pos='376,545'>社</text>
+		<text pos='392,545'>员</text>
+		<text pos='408,545'>，</text>
+		<text pos='424,545'>都</text>
+	</line>
+	<line pos='40,556' size='400,16' baseline='14' txt='2949,75'>
+		<setfont name='FZLanTingHei-R-GBK' size='16'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='40,570'>好</text>
+		<text pos='56,570'>像</text>
+		<text pos='72,570'>没</text>
+		<text pos='88,570'>事</text>
+		<text pos='104,570'>的</text>
+		<text pos='120,570'>一</text>
+		<text pos='136,570'>般</text>
+		<text pos='152,570'>，</text>
+		<text pos='168,570'>依</text>
+		<text pos='184,570'>然</text>
+		<text pos='200,570'>叉</text>
+		<text pos='216,570'>麻</text>
+		<text pos='232,570'>雀</text>
+		<text pos='248,570'>，</text>
+		<text pos='264,570'>打</text>
+		<text pos='280,570'>野</text>
+		<text pos='296,570'>鸡</text>
+		<text pos='312,570'>，</text>
+		<text pos='328,570'>安</text>
+		<text pos='344,570'>塏</text>
+		<text pos='360,570'>第</text>
+		<text pos='376,570'>喝</text>
+		<text pos='392,570'>茶</text>
+		<text pos='408,570'>，</text>
+		<text pos='424,570'>天</text>
+	</line>
+	<line pos='40,581' size='400,16' baseline='14' txt='3024,75'>
+		<setfont name='FZLanTingHei-R-GBK' size='16'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='40,595'>乐</text>
+		<text pos='56,595'>窝</text>
+		<text pos='72,595'>听</text>
+		<text pos='88,595'>唱</text>
+		<text pos='104,595'>；</text>
+		<text pos='120,595'>马</text>
+		<text pos='136,595'>龙</text>
+		<text pos='152,595'>车</text>
+		<text pos='168,595'>水</text>
+		<text pos='184,595'>，</text>
+		<text pos='200,595'>酒</text>
+		<text pos='216,595'>地</text>
+		<text pos='232,595'>花</text>
+		<text pos='248,595'>天</text>
+		<text pos='264,595'>，</text>
+		<text pos='280,595'>好</text>
+		<text pos='296,595'>一</text>
+		<text pos='312,595'>派</text>
+		<text pos='328,595'>升</text>
+		<text pos='344,595'>平</text>
+		<text pos='360,595'>景</text>
+		<text pos='376,595'>象</text>
+		<text pos='392,595'>！</text>
+		<text pos='408,595'>爱</text>
+		<text pos='424,595'>自</text>
+	</line>
+</page>
+<page index='3'>
+		<save/>
+		<path verb='moveto' pos='0,0'/>
+		<path verb='lineto' pos='480,0'/>
+		<path verb='lineto' pos='480,700'/>
+		<path verb='lineto' pos='0,700'/>
+		<path verb='lineto' pos='0,0'/>
+		<path verb='close'/>
+		<clip/>
+		<setcolor val='rgb(255,255,255)'/>
+		<path verb='rect' pos='0,0' size='480,700'/>
+		<fill/>
+		<restore/>
+	<line pos='40,40' size='400,16' baseline='14' txt='3099,75'>
+		<setfont name='FZLanTingHei-R-GBK' size='16'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='40,54'>由</text>
+		<text pos='56,54'>者</text>
+		<text pos='72,54'>倒</text>
+		<text pos='88,54'>不</text>
+		<text pos='104,54'>解</text>
+		<text pos='120,54'>起</text>
+		<text pos='136,54'>来</text>
+		<text pos='152,54'>，</text>
+		<text pos='168,54'>糊</text>
+		<text pos='184,54'>糊</text>
+		<text pos='200,54'>涂</text>
+		<text pos='216,54'>涂</text>
+		<text pos='232,54'>、</text>
+		<text pos='248,54'>昏</text>
+		<text pos='264,54'>昏</text>
+		<text pos='280,54'>沉</text>
+		<text pos='296,54'>沉</text>
+		<text pos='312,54'>地</text>
+		<text pos='328,54'>过</text>
+		<text pos='344,54'>了</text>
+		<text pos='360,54'>数</text>
+		<text pos='376,54'>日</text>
+		<text pos='392,54'>。</text>
+		<text pos='408,54'>这</text>
+		<text pos='424,54'>日</text>
+	</line>
+	<line pos='40,65' size='400,16' baseline='14' txt='3174,75'>
+		<setfont name='FZLanTingHei-R-GBK' size='16'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='40,79'>正</text>
+		<text pos='56,79'>一</text>
+		<text pos='72,79'>个</text>
+		<text pos='88,79'>人</text>
+		<text pos='104,79'>闷</text>
+		<text pos='120,79'>闷</text>
+		<text pos='136,79'>坐</text>
+		<text pos='152,79'>着</text>
+		<text pos='168,79'>，</text>
+		<text pos='184,79'>忽</text>
+		<text pos='200,79'>见</text>
+		<text pos='216,79'>几</text>
+		<text pos='232,79'>个</text>
+		<text pos='248,79'>神</text>
+		<text pos='264,79'>色</text>
+		<text pos='280,79'>仓</text>
+		<text pos='296,79'>皇</text>
+		<text pos='312,79'>、</text>
+		<text pos='328,79'>手</text>
+		<text pos='344,79'>忙</text>
+		<text pos='360,79'>脚</text>
+		<text pos='376,79'>乱</text>
+		<text pos='392,79'>的</text>
+		<text pos='408,79'>人</text>
+		<text pos='424,79'>奔</text>
+	</line>
+	<line pos='40,90' size='400,17' baseline='15' txt='3249,75'>
+		<setfont name='FZLanTingHei-R-GBK' size='16'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='40,105'>进</text>
+		<text pos='56,105'>来</text>
+		<text pos='72,105'>嚷</text>
+		<text pos='88,105'>道</text>
+		<text pos='104,105'>：</text>
+		<text pos='120,105'>“</text>
+		<text pos='136,105'>祸</text>
+		<text pos='152,105'>事</text>
+		<text pos='168,105'>！</text>
+		<text pos='184,105'>祸</text>
+		<text pos='200,105'>事</text>
+		<text pos='216,105'>！</text>
+		<text pos='232,105'>日</text>
+		<text pos='248,105'>俄</text>
+		<text pos='264,105'>开</text>
+		<text pos='280,105'>仗</text>
+		<text pos='296,105'>了</text>
+		<text pos='312,105'>，</text>
+		<text pos='328,105'>东</text>
+		<text pos='344,105'>三</text>
+		<text pos='360,105'>省</text>
+		<text pos='376,105'>快</text>
+		<text pos='392,105'>要</text>
+		<text pos='408,105'>不</text>
+		<text pos='424,105'>保</text>
+	</line>
+	<line pos='40,115' size='400,17' baseline='15' txt='3324,75'>
+		<setfont name='FZLanTingHei-R-GBK' size='16'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='40,130'>了</text>
+		<text pos='56,130'>！</text>
+		<text pos='61,130'>”</text>
+		<text pos='80,130'>正</text>
+		<text pos='96,130'>嚷</text>
+		<text pos='112,130'>着</text>
+		<text pos='129,130'>，</text>
+		<text pos='145,130'>旁</text>
+		<text pos='162,130'>边</text>
+		<text pos='178,130'>远</text>
+		<text pos='194,130'>远</text>
+		<text pos='211,130'>坐</text>
+		<text pos='227,130'>着</text>
+		<text pos='243,130'>一</text>
+		<text pos='260,130'>人</text>
+		<text pos='276,130'>冷</text>
+		<text pos='293,130'>笑</text>
+		<text pos='309,130'>道</text>
+		<text pos='325,130'>：</text>
+		<text pos='342,130'>“</text>
+		<text pos='358,130'>岂</text>
+		<text pos='374,130'>但</text>
+		<text pos='391,130'>东</text>
+		<text pos='407,130'>三</text>
+		<text pos='424,130'>省</text>
+	</line>
+	<line pos='40,140' size='400,17' baseline='15' txt='3399,75'>
+		<setfont name='FZLanTingHei-R-GBK' size='16'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='40,155'>呀</text>
+		<text pos='56,155'>！</text>
+		<text pos='72,155'>十</text>
+		<text pos='89,155'>八</text>
+		<text pos='105,155'>省</text>
+		<text pos='121,155'>早</text>
+		<text pos='138,155'>已</text>
+		<text pos='154,155'>都</text>
+		<text pos='171,155'>不</text>
+		<text pos='187,155'>保</text>
+		<text pos='203,155'>了</text>
+		<text pos='220,155'>！</text>
+		<text pos='225,155'>”</text>
+		<text pos='243,155'>爱</text>
+		<text pos='260,155'>自</text>
+		<text pos='276,155'>由</text>
+		<text pos='293,155'>者</text>
+		<text pos='309,155'>听</text>
+		<text pos='325,155'>了</text>
+		<text pos='342,155'>，</text>
+		<text pos='358,155'>猛</text>
+		<text pos='374,155'>吃</text>
+		<text pos='391,155'>一</text>
+		<text pos='407,155'>惊</text>
+		<text pos='424,155'>心</text>
+	</line>
+	<line pos='40,165' size='400,16' baseline='14' txt='3474,75'>
+		<setfont name='FZLanTingHei-R-GBK' size='16'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='40,179'>想</text>
+		<text pos='56,179'>刚</text>
+		<text pos='72,179'>刚</text>
+		<text pos='88,179'>很</text>
+		<text pos='104,179'>太</text>
+		<text pos='120,179'>平</text>
+		<text pos='136,179'>的</text>
+		<text pos='152,179'>世</text>
+		<text pos='168,179'>界</text>
+		<text pos='184,179'>，</text>
+		<text pos='200,179'>怎</text>
+		<text pos='216,179'>么</text>
+		<text pos='232,179'>变</text>
+		<text pos='248,179'>得</text>
+		<text pos='264,179'>那</text>
+		<text pos='280,179'>么</text>
+		<text pos='296,179'>快</text>
+		<text pos='312,179'>！</text>
+		<text pos='328,179'>不</text>
+		<text pos='344,179'>知</text>
+		<text pos='360,179'>不</text>
+		<text pos='376,179'>觉</text>
+		<text pos='392,179'>立</text>
+		<text pos='408,179'>了</text>
+		<text pos='424,179'>起</text>
+	</line>
+	<line pos='40,190' size='400,16' baseline='14' txt='3549,75'>
+		<setfont name='FZLanTingHei-R-GBK' size='16'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='40,204'>来</text>
+		<text pos='56,204'>，</text>
+		<text pos='72,204'>往</text>
+		<text pos='88,204'>外</text>
+		<text pos='104,204'>就</text>
+		<text pos='120,204'>走</text>
+		<text pos='136,204'>。</text>
+		<text pos='152,204'>一</text>
+		<text pos='168,204'>直</text>
+		<text pos='184,204'>走</text>
+		<text pos='200,204'>去</text>
+		<text pos='216,204'>，</text>
+		<text pos='232,204'>不</text>
+		<text pos='248,204'>晓</text>
+		<text pos='264,204'>得</text>
+		<text pos='280,204'>走</text>
+		<text pos='296,204'>了</text>
+		<text pos='312,204'>多</text>
+		<text pos='328,204'>少</text>
+		<text pos='344,204'>路</text>
+		<text pos='360,204'>程</text>
+		<text pos='376,204'>。</text>
+		<text pos='392,204'>忽</text>
+		<text pos='408,204'>然</text>
+		<text pos='424,204'>到</text>
+	</line>
+	<line pos='40,215' size='400,16' baseline='14' txt='3624,75'>
+		<setfont name='FZLanTingHei-R-GBK' size='16'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='40,229'>一</text>
+		<text pos='56,229'>个</text>
+		<text pos='72,229'>所</text>
+		<text pos='88,229'>在</text>
+		<text pos='104,229'>，</text>
+		<text pos='120,229'>抬</text>
+		<text pos='136,229'>头</text>
+		<text pos='152,229'>一</text>
+		<text pos='168,229'>看</text>
+		<text pos='184,229'>，</text>
+		<text pos='200,229'>好</text>
+		<text pos='216,229'>一</text>
+		<text pos='232,229'>片</text>
+		<text pos='248,229'>平</text>
+		<text pos='264,229'>阳</text>
+		<text pos='280,229'>大</text>
+		<text pos='296,229'>地</text>
+		<text pos='312,229'>！</text>
+		<text pos='328,229'>山</text>
+		<text pos='344,229'>作</text>
+		<text pos='360,229'>黄</text>
+		<text pos='376,229'>金</text>
+		<text pos='392,229'>色</text>
+		<text pos='408,229'>，</text>
+		<text pos='424,229'>水</text>
+	</line>
+	<line pos='40,240' size='400,16' baseline='14' txt='3699,75'>
+		<setfont name='FZLanTingHei-R-GBK' size='16'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='40,254'>流</text>
+		<text pos='56,254'>乳</text>
+		<text pos='72,254'>白</text>
+		<text pos='88,254'>香</text>
+		<text pos='104,254'>，</text>
+		<text pos='120,254'>几</text>
+		<text pos='136,254'>十</text>
+		<text pos='152,254'>座</text>
+		<text pos='168,254'>玉</text>
+		<text pos='184,254'>宇</text>
+		<text pos='200,254'>琼</text>
+		<text pos='216,254'>楼</text>
+		<text pos='232,254'>，</text>
+		<text pos='248,254'>无</text>
+		<text pos='264,254'>量</text>
+		<text pos='280,254'>数</text>
+		<text pos='296,254'>瑶</text>
+		<text pos='312,254'>林</text>
+		<text pos='328,254'>琪</text>
+		<text pos='344,254'>树</text>
+		<text pos='360,254'>，</text>
+		<text pos='376,254'>正</text>
+		<text pos='392,254'>是</text>
+		<text pos='408,254'>华</text>
+		<text pos='424,254'>丽</text>
+	</line>
+	<line pos='40,265' size='400,16' baseline='14' txt='3774,75'>
+		<setfont name='FZLanTingHei-R-GBK' size='16'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='40,279'>境</text>
+		<text pos='56,279'>域</text>
+		<text pos='72,279'>，</text>
+		<text pos='88,279'>锦</text>
+		<text pos='104,279'>绣</text>
+		<text pos='120,279'>山</text>
+		<text pos='136,279'>河</text>
+		<text pos='152,279'>，</text>
+		<text pos='168,279'>好</text>
+		<text pos='184,279'>不</text>
+		<text pos='200,279'>动</text>
+		<text pos='216,279'>人</text>
+		<text pos='232,279'>歆</text>
+		<text pos='248,279'>羡</text>
+		<text pos='264,279'>呀</text>
+		<text pos='280,279'>！</text>
+		<text pos='296,279'>只</text>
+		<text pos='312,279'>是</text>
+		<text pos='328,279'>空</text>
+		<text pos='344,279'>荡</text>
+		<text pos='360,279'>荡</text>
+		<text pos='376,279'>、</text>
+		<text pos='392,279'>静</text>
+		<text pos='408,279'>悄</text>
+		<text pos='424,279'>悄</text>
+	</line>
+	<line pos='40,290' size='400,16' baseline='14' txt='3849,75'>
+		<setfont name='FZLanTingHei-R-GBK' size='16'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='40,304'>没</text>
+		<text pos='56,304'>个</text>
+		<text pos='72,304'>人</text>
+		<text pos='88,304'>影</text>
+		<text pos='104,304'>儿</text>
+		<text pos='120,304'>。</text>
+		<text pos='136,304'>爱</text>
+		<text pos='152,304'>自</text>
+		<text pos='168,304'>由</text>
+		<text pos='184,304'>者</text>
+		<text pos='200,304'>走</text>
+		<text pos='216,304'>到</text>
+		<text pos='232,304'>这</text>
+		<text pos='248,304'>里</text>
+		<text pos='264,304'>，</text>
+		<text pos='280,304'>心</text>
+		<text pos='296,304'>里</text>
+		<text pos='312,304'>一</text>
+		<text pos='328,304'>动</text>
+		<text pos='344,304'>，</text>
+		<text pos='360,304'>好</text>
+		<text pos='376,304'>像</text>
+		<text pos='392,304'>曾</text>
+		<text pos='408,304'>经</text>
+		<text pos='424,304'>到</text>
+	</line>
+	<line pos='40,315' size='400,16' baseline='14' txt='3924,75'>
+		<setfont name='FZLanTingHei-R-GBK' size='16'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='40,329'>过</text>
+		<text pos='56,329'>的</text>
+		<text pos='72,329'>。</text>
+		<text pos='89,329'>正</text>
+		<text pos='105,329'>在</text>
+		<text pos='121,329'>徘</text>
+		<text pos='138,329'>徊</text>
+		<text pos='154,329'>不</text>
+		<text pos='170,329'>舍</text>
+		<text pos='187,329'>，</text>
+		<text pos='203,329'>忽</text>
+		<text pos='219,329'>见</text>
+		<text pos='236,329'>眼</text>
+		<text pos='252,329'>前</text>
+		<text pos='268,329'>迎</text>
+		<text pos='285,329'>着</text>
+		<text pos='301,329'>面</text>
+		<text pos='317,329'>一</text>
+		<text pos='334,329'>所</text>
+		<text pos='350,329'>小</text>
+		<text pos='366,329'>小</text>
+		<text pos='383,329'>的</text>
+		<text pos='399,329'>空</text>
+		<text pos='415,329'>屋</text>
+		<text pos='432,329'>。</text>
+	</line>
+	<line pos='40,340' size='400,16' baseline='14' txt='3999,75'>
+		<setfont name='FZLanTingHei-R-GBK' size='16'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='40,354'>爱</text>
+		<text pos='56,354'>自</text>
+		<text pos='72,354'>由</text>
+		<text pos='88,354'>者</text>
+		<text pos='104,354'>不</text>
+		<text pos='120,354'>觉</text>
+		<text pos='136,354'>越</text>
+		<text pos='152,354'>走</text>
+		<text pos='168,354'>越</text>
+		<text pos='184,354'>近</text>
+		<text pos='200,354'>了</text>
+		<text pos='216,354'>，</text>
+		<text pos='232,354'>到</text>
+		<text pos='248,354'>得</text>
+		<text pos='264,354'>门</text>
+		<text pos='280,354'>前</text>
+		<text pos='296,354'>，</text>
+		<text pos='312,354'>不</text>
+		<text pos='328,354'>提</text>
+		<text pos='344,354'>防</text>
+		<text pos='360,354'>门</text>
+		<text pos='376,354'>上</text>
+		<text pos='392,354'>却</text>
+		<text pos='408,354'>悬</text>
+		<text pos='424,354'>着</text>
+	</line>
+	<line pos='40,365' size='400,16' baseline='14' txt='4074,75'>
+		<setfont name='FZLanTingHei-R-GBK' size='16'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='40,379'>一</text>
+		<text pos='56,379'>桁</text>
+		<text pos='72,379'>珠</text>
+		<text pos='88,379'>帘</text>
+		<text pos='104,379'>；</text>
+		<text pos='120,379'>隔</text>
+		<text pos='136,379'>帘</text>
+		<text pos='152,379'>望</text>
+		<text pos='168,379'>去</text>
+		<text pos='184,379'>，</text>
+		<text pos='200,379'>隐</text>
+		<text pos='216,379'>约</text>
+		<text pos='232,379'>看</text>
+		<text pos='248,379'>见</text>
+		<text pos='264,379'>中</text>
+		<text pos='280,379'>间</text>
+		<text pos='296,379'>好</text>
+		<text pos='312,379'>像</text>
+		<text pos='328,379'>供</text>
+		<text pos='344,379'>着</text>
+		<text pos='360,379'>一</text>
+		<text pos='376,379'>盆</text>
+		<text pos='392,379'>极</text>
+		<text pos='408,379'>娇</text>
+		<text pos='424,379'>艳</text>
+	</line>
+	<line pos='40,390' size='400,16' baseline='14' txt='4149,75'>
+		<setfont name='FZLanTingHei-R-GBK' size='16'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='40,404'>的</text>
+		<text pos='56,404'>奇</text>
+		<text pos='72,404'>花</text>
+		<text pos='88,404'>，</text>
+		<text pos='104,404'>一</text>
+		<text pos='120,404'>时</text>
+		<text pos='136,404'>也</text>
+		<text pos='152,404'>辨</text>
+		<text pos='168,404'>不</text>
+		<text pos='184,404'>清</text>
+		<text pos='200,404'>是</text>
+		<text pos='216,404'>隋</text>
+		<text pos='232,404'>炀</text>
+		<text pos='248,404'>帝</text>
+		<text pos='264,404'>的</text>
+		<text pos='280,404'>琼</text>
+		<text pos='296,404'>花</text>
+		<text pos='312,404'>呢</text>
+		<text pos='328,404'>？</text>
+		<text pos='344,404'>还</text>
+		<text pos='360,404'>是</text>
+		<text pos='376,404'>陈</text>
+		<text pos='392,404'>后</text>
+		<text pos='408,404'>主</text>
+		<text pos='424,404'>的</text>
+	</line>
+	<line pos='40,415' size='400,18' baseline='14' txt='4224,68'>
+		<setfont name='FZLanTingHei-R-GBK' size='16'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='40,429'>玉</text>
+		<text pos='56,429'>树</text>
+		<text pos='73,429'>花</text>
+		<text pos='90,429'>呢</text>
+		<text pos='106,429'>？</text>
+		<text pos='123,429'>但</text>
+		<text pos='140,429'>觉</text>
+		<text pos='156,429'>春</text>
+		<text pos='173,429'>guang</text>
+		<text pos='224,429'>澹</text>
+		<text pos='240,429'>宕</text>
+		<text pos='257,429'>，</text>
+		<text pos='274,429'>香</text>
+		<text pos='290,429'>气</text>
+		<text pos='307,429'>氤</text>
+		<text pos='324,429'>氲</text>
+		<text pos='340,429'>，</text>
+		<text pos='357,429'>一</text>
+		<text pos='374,429'>阵</text>
+		<text pos='390,429'>阵</text>
+		<text pos='407,429'>从</text>
+		<text pos='424,429'>帘</text>
+	</line>
+	<line pos='40,440' size='400,16' baseline='14' txt='4292,75'>
+		<setfont name='FZLanTingHei-R-GBK' size='16'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='40,454'>缝</text>
+		<text pos='56,454'>里</text>
+		<text pos='72,454'>透</text>
+		<text pos='88,454'>出</text>
+		<text pos='104,454'>来</text>
+		<text pos='120,454'>。</text>
+		<text pos='136,454'>爱</text>
+		<text pos='152,454'>自</text>
+		<text pos='168,454'>由</text>
+		<text pos='184,454'>者</text>
+		<text pos='200,454'>心</text>
+		<text pos='216,454'>想</text>
+		<text pos='232,454'>，</text>
+		<text pos='248,454'>远</text>
+		<text pos='264,454'>观</text>
+		<text pos='280,454'>不</text>
+		<text pos='296,454'>如</text>
+		<text pos='312,454'>近</text>
+		<text pos='328,454'>睹</text>
+		<text pos='344,454'>，</text>
+		<text pos='360,454'>放</text>
+		<text pos='376,454'>着</text>
+		<text pos='392,454'>胆</text>
+		<text pos='408,454'>把</text>
+		<text pos='424,454'>帘</text>
+	</line>
+	<line pos='40,465' size='400,16' baseline='14' txt='4367,75'>
+		<setfont name='FZLanTingHei-R-GBK' size='16'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='40,479'>子</text>
+		<text pos='56,479'>一</text>
+		<text pos='72,479'>掀</text>
+		<text pos='88,479'>，</text>
+		<text pos='104,479'>大</text>
+		<text pos='120,479'>踏</text>
+		<text pos='136,479'>步</text>
+		<text pos='152,479'>走</text>
+		<text pos='168,479'>进</text>
+		<text pos='184,479'>一</text>
+		<text pos='200,479'>看</text>
+		<text pos='216,479'>，</text>
+		<text pos='232,479'>哪</text>
+		<text pos='248,479'>里</text>
+		<text pos='264,479'>有</text>
+		<text pos='280,479'>什</text>
+		<text pos='296,479'>么</text>
+		<text pos='312,479'>花</text>
+		<text pos='328,479'>，</text>
+		<text pos='344,479'>倒</text>
+		<text pos='360,479'>是</text>
+		<text pos='376,479'>个</text>
+		<text pos='392,479'>螓</text>
+		<text pos='408,479'>首</text>
+		<text pos='424,479'>蛾</text>
+	</line>
+	<line pos='40,490' size='400,16' baseline='14' txt='4442,72'>
+		<setfont name='FZLanTingHei-R-GBK' size='16'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='40,504'>眉</text>
+		<text pos='56,504'>、</text>
+		<text pos='73,504'>桃</text>
+		<text pos='90,504'>腮</text>
+		<text pos='106,504'>樱</text>
+		<text pos='123,504'>口</text>
+		<text pos='140,504'>的</text>
+		<text pos='156,504'>绝</text>
+		<text pos='173,504'>代</text>
+		<text pos='190,504'>美</text>
+		<text pos='206,504'>人</text>
+		<text pos='223,504'>！</text>
+		<text pos='240,504'>爱</text>
+		<text pos='257,504'>自</text>
+		<text pos='273,504'>由</text>
+		<text pos='290,504'>者</text>
+		<text pos='307,504'>顿</text>
+		<text pos='323,504'>吓</text>
+		<text pos='340,504'>一</text>
+		<text pos='357,504'>跳</text>
+		<text pos='373,504'>，</text>
+		<text pos='390,504'>忙</text>
+		<text pos='407,504'>要</text>
+		<text pos='424,504'>退</text>
+	</line>
+	<line pos='40,515' size='400,17' baseline='15' txt='4514,75'>
+		<setfont name='FZLanTingHei-R-GBK' size='16'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='40,530'>出</text>
+		<text pos='56,530'>，</text>
+		<text pos='72,530'>忽</text>
+		<text pos='88,530'>听</text>
+		<text pos='104,530'>那</text>
+		<text pos='120,530'>美</text>
+		<text pos='136,530'>人</text>
+		<text pos='152,530'>唤</text>
+		<text pos='168,530'>道</text>
+		<text pos='184,530'>：</text>
+		<text pos='200,530'>“</text>
+		<text pos='216,530'>自</text>
+		<text pos='232,530'>由</text>
+		<text pos='248,530'>儿</text>
+		<text pos='264,530'>，</text>
+		<text pos='280,530'>自</text>
+		<text pos='296,530'>由</text>
+		<text pos='312,530'>儿</text>
+		<text pos='328,530'>，</text>
+		<text pos='344,530'>奴</text>
+		<text pos='360,530'>乐</text>
+		<text pos='376,530'>岛</text>
+		<text pos='392,530'>奇</text>
+		<text pos='408,530'>事</text>
+		<text pos='424,530'>发</text>
+	</line>
+	<line pos='40,540' size='400,17' baseline='15' txt='4589,75'>
+		<setfont name='FZLanTingHei-R-GBK' size='16'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='40,555'>现</text>
+		<text pos='56,555'>，</text>
+		<text pos='73,555'>你</text>
+		<text pos='89,555'>不</text>
+		<text pos='106,555'>是</text>
+		<text pos='122,555'>要</text>
+		<text pos='139,555'>侦</text>
+		<text pos='155,555'>探</text>
+		<text pos='172,555'>么</text>
+		<text pos='188,555'>？</text>
+		<text pos='198,555'>”</text>
+		<text pos='216,555'>爱</text>
+		<text pos='233,555'>自</text>
+		<text pos='250,555'>由</text>
+		<text pos='266,555'>者</text>
+		<text pos='283,555'>忽</text>
+		<text pos='299,555'>听</text>
+		<text pos='316,555'>“</text>
+		<text pos='332,555'>奴</text>
+		<text pos='349,555'>乐</text>
+		<text pos='365,555'>岛</text>
+		<text pos='382,555'>”</text>
+		<text pos='400,555'>三</text>
+		<text pos='417,555'>字</text>
+		<text pos='434,555'>，</text>
+	</line>
+	<line pos='40,565' size='400,17' baseline='15' txt='4664,75'>
+		<setfont name='FZLanTingHei-R-GBK' size='16'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='40,580'>顿</text>
+		<text pos='56,580'>时</text>
+		<text pos='72,580'>触</text>
+		<text pos='88,580'>着</text>
+		<text pos='104,580'>旧</text>
+		<text pos='120,580'>事</text>
+		<text pos='136,580'>，</text>
+		<text pos='152,580'>就</text>
+		<text pos='168,580'>停</text>
+		<text pos='184,580'>了</text>
+		<text pos='200,580'>脚</text>
+		<text pos='216,580'>，</text>
+		<text pos='232,580'>对</text>
+		<text pos='248,580'>那</text>
+		<text pos='264,580'>美</text>
+		<text pos='280,580'>人</text>
+		<text pos='296,580'>鞠</text>
+		<text pos='312,580'>了</text>
+		<text pos='328,580'>鞠</text>
+		<text pos='344,580'>躬</text>
+		<text pos='360,580'>道</text>
+		<text pos='376,580'>：</text>
+		<text pos='392,580'>“</text>
+		<text pos='408,580'>令</text>
+		<text pos='424,580'>娘</text>
+	</line>
+	<line pos='40,590' size='400,17' baseline='15' txt='4739,75'>
+		<setfont name='FZLanTingHei-R-GBK' size='16'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='40,605'>知</text>
+		<text pos='56,605'>道</text>
+		<text pos='72,605'>奴</text>
+		<text pos='88,605'>乐</text>
+		<text pos='104,605'>岛</text>
+		<text pos='121,605'>消</text>
+		<text pos='137,605'>息</text>
+		<text pos='153,605'>吗</text>
+		<text pos='169,605'>？</text>
+		<text pos='178,605'>”</text>
+		<text pos='197,605'>那</text>
+		<text pos='213,605'>美</text>
+		<text pos='229,605'>人</text>
+		<text pos='245,605'>笑</text>
+		<text pos='261,605'>道</text>
+		<text pos='278,605'>：</text>
+		<text pos='294,605'>“</text>
+		<text pos='310,605'>咳</text>
+		<text pos='326,605'>，</text>
+		<text pos='342,605'>你</text>
+		<text pos='359,605'>疯</text>
+		<text pos='375,605'>了</text>
+		<text pos='391,605'>，</text>
+		<text pos='407,605'>哪</text>
+		<text pos='424,605'>里</text>
+	</line>
+</page>
+<page index='4'>
+		<save/>
+		<path verb='moveto' pos='0,0'/>
+		<path verb='lineto' pos='480,0'/>
+		<path verb='lineto' pos='480,700'/>
+		<path verb='lineto' pos='0,700'/>
+		<path verb='lineto' pos='0,0'/>
+		<path verb='close'/>
+		<clip/>
+		<setcolor val='rgb(255,255,255)'/>
+		<path verb='rect' pos='0,0' size='480,700'/>
+		<fill/>
+		<restore/>
+	<line pos='40,40' size='400,17' baseline='15' txt='4814,75'>
+		<setfont name='FZLanTingHei-R-GBK' size='16'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='40,55'>有</text>
+		<text pos='56,55'>什</text>
+		<text pos='73,55'>么</text>
+		<text pos='90,55'>奴</text>
+		<text pos='107,55'>乐</text>
+		<text pos='124,55'>岛</text>
+		<text pos='141,55'>来</text>
+		<text pos='158,55'>！</text>
+		<text pos='164,55'>”</text>
+		<text pos='183,55'>爱</text>
+		<text pos='200,55'>自</text>
+		<text pos='217,55'>由</text>
+		<text pos='234,55'>者</text>
+		<text pos='250,55'>愕</text>
+		<text pos='267,55'>然</text>
+		<text pos='284,55'>道</text>
+		<text pos='301,55'>：</text>
+		<text pos='318,55'>“</text>
+		<text pos='335,55'>没</text>
+		<text pos='352,55'>有</text>
+		<text pos='369,55'>这</text>
+		<text pos='386,55'>岛</text>
+		<text pos='403,55'>吗</text>
+		<text pos='420,55'>？</text>
+		<text pos='430,55'>”</text>
+	</line>
+	<line pos='40,65' size='400,17' baseline='15' txt='4889,75'>
+		<setfont name='FZLanTingHei-R-GBK' size='16'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='40,80'>美</text>
+		<text pos='56,80'>人</text>
+		<text pos='73,80'>又</text>
+		<text pos='89,80'>笑</text>
+		<text pos='106,80'>道</text>
+		<text pos='122,80'>：</text>
+		<text pos='139,80'>“</text>
+		<text pos='155,80'>呸</text>
+		<text pos='172,80'>，</text>
+		<text pos='188,80'>你</text>
+		<text pos='205,80'>真</text>
+		<text pos='221,80'>呆</text>
+		<text pos='238,80'>了</text>
+		<text pos='255,80'>！</text>
+		<text pos='271,80'>哪</text>
+		<text pos='288,80'>一</text>
+		<text pos='304,80'>处</text>
+		<text pos='321,80'>不</text>
+		<text pos='337,80'>是</text>
+		<text pos='354,80'>奴</text>
+		<text pos='370,80'>乐</text>
+		<text pos='387,80'>岛</text>
+		<text pos='403,80'>呢</text>
+		<text pos='420,80'>？</text>
+		<text pos='430,80'>”</text>
+	</line>
+	<line pos='40,90' size='400,16' baseline='14' txt='4964,75'>
+		<setfont name='FZLanTingHei-R-GBK' size='16'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='40,104'>说</text>
+		<text pos='56,104'>着</text>
+		<text pos='72,104'>，</text>
+		<text pos='88,104'>手</text>
+		<text pos='104,104'>中</text>
+		<text pos='120,104'>擎</text>
+		<text pos='136,104'>着</text>
+		<text pos='152,104'>一</text>
+		<text pos='168,104'>卷</text>
+		<text pos='184,104'>纸</text>
+		<text pos='200,104'>，</text>
+		<text pos='216,104'>郑</text>
+		<text pos='232,104'>重</text>
+		<text pos='248,104'>地</text>
+		<text pos='264,104'>亲</text>
+		<text pos='280,104'>自</text>
+		<text pos='296,104'>递</text>
+		<text pos='312,104'>与</text>
+		<text pos='328,104'>爱</text>
+		<text pos='344,104'>自</text>
+		<text pos='360,104'>由</text>
+		<text pos='376,104'>者</text>
+		<text pos='392,104'>。</text>
+		<text pos='408,104'>爱</text>
+		<text pos='424,104'>自</text>
+	</line>
+	<line pos='40,115' size='400,16' baseline='14' txt='5039,75'>
+		<setfont name='FZLanTingHei-R-GBK' size='16'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='40,129'>由</text>
+		<text pos='56,129'>者</text>
+		<text pos='72,129'>不</text>
+		<text pos='88,129'>解</text>
+		<text pos='104,129'>缘</text>
+		<text pos='120,129'>故</text>
+		<text pos='136,129'>，</text>
+		<text pos='152,129'>展</text>
+		<text pos='168,129'>开</text>
+		<text pos='184,129'>一</text>
+		<text pos='200,129'>看</text>
+		<text pos='216,129'>，</text>
+		<text pos='232,129'>却</text>
+		<text pos='248,129'>是</text>
+		<text pos='264,129'>一</text>
+		<text pos='280,129'>段</text>
+		<text pos='296,129'>新</text>
+		<text pos='312,129'>鲜</text>
+		<text pos='328,129'>有</text>
+		<text pos='344,129'>趣</text>
+		<text pos='360,129'>的</text>
+		<text pos='376,129'>历</text>
+		<text pos='392,129'>史</text>
+		<text pos='408,129'>，</text>
+		<text pos='424,129'>默</text>
+	</line>
+	<line pos='40,140' size='400,16' baseline='14' txt='5114,75'>
+		<setfont name='FZLanTingHei-R-GBK' size='16'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='40,154'>想</text>
+		<text pos='56,154'>了</text>
+		<text pos='72,154'>一</text>
+		<text pos='88,154'>回</text>
+		<text pos='104,154'>，</text>
+		<text pos='120,154'>恍</text>
+		<text pos='136,154'>恍</text>
+		<text pos='152,154'>惚</text>
+		<text pos='168,154'>惚</text>
+		<text pos='184,154'>，</text>
+		<text pos='200,154'>好</text>
+		<text pos='216,154'>像</text>
+		<text pos='232,154'>中</text>
+		<text pos='248,154'>国</text>
+		<text pos='264,154'>也</text>
+		<text pos='280,154'>有</text>
+		<text pos='296,154'>这</text>
+		<text pos='312,154'>么</text>
+		<text pos='328,154'>一</text>
+		<text pos='344,154'>件</text>
+		<text pos='360,154'>新</text>
+		<text pos='376,154'>奇</text>
+		<text pos='392,154'>有</text>
+		<text pos='408,154'>趣</text>
+		<text pos='424,154'>的</text>
+	</line>
+	<line pos='40,165' size='400,16' baseline='14' txt='5189,75'>
+		<setfont name='FZLanTingHei-R-GBK' size='16'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='40,179'>事</text>
+		<text pos='56,179'>情</text>
+		<text pos='72,179'>；</text>
+		<text pos='88,179'>自</text>
+		<text pos='104,179'>己</text>
+		<text pos='120,179'>还</text>
+		<text pos='136,179'>有</text>
+		<text pos='152,179'>一</text>
+		<text pos='168,179'>半</text>
+		<text pos='184,179'>记</text>
+		<text pos='200,179'>得</text>
+		<text pos='216,179'>，</text>
+		<text pos='232,179'>恐</text>
+		<text pos='248,179'>怕</text>
+		<text pos='264,179'>日</text>
+		<text pos='280,179'>久</text>
+		<text pos='296,179'>忘</text>
+		<text pos='312,179'>了</text>
+		<text pos='328,179'>，</text>
+		<text pos='344,179'>却</text>
+		<text pos='360,179'>慢</text>
+		<text pos='376,179'>慢</text>
+		<text pos='392,179'>写</text>
+		<text pos='408,179'>了</text>
+		<text pos='424,179'>出</text>
+	</line>
+	<line pos='40,190' size='400,17' baseline='15' txt='5264,75'>
+		<setfont name='FZLanTingHei-R-GBK' size='16'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='40,205'>来</text>
+		<text pos='56,205'>。</text>
+		<text pos='72,205'>正</text>
+		<text pos='88,205'>写</text>
+		<text pos='104,205'>着</text>
+		<text pos='120,205'>，</text>
+		<text pos='136,205'>忽</text>
+		<text pos='152,205'>然</text>
+		<text pos='168,205'>把</text>
+		<text pos='184,205'>笔</text>
+		<text pos='200,205'>一</text>
+		<text pos='216,205'>丢</text>
+		<text pos='232,205'>道</text>
+		<text pos='248,205'>：</text>
+		<text pos='264,205'>“</text>
+		<text pos='280,205'>呸</text>
+		<text pos='296,205'>，</text>
+		<text pos='312,205'>我</text>
+		<text pos='328,205'>疯</text>
+		<text pos='344,205'>了</text>
+		<text pos='360,205'>！</text>
+		<text pos='376,205'>现</text>
+		<text pos='392,205'>在</text>
+		<text pos='408,205'>我</text>
+		<text pos='424,205'>的</text>
+	</line>
+	<line pos='40,215' size='400,16' baseline='14' txt='5339,75'>
+		<setfont name='FZLanTingHei-R-GBK' size='16'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='40,229'>朋</text>
+		<text pos='56,229'>友</text>
+		<text pos='72,229'>东</text>
+		<text pos='88,229'>亚</text>
+		<text pos='104,229'>病</text>
+		<text pos='120,229'>夫</text>
+		<text pos='136,229'>，</text>
+		<text pos='152,229'>嚣</text>
+		<text pos='168,229'>然</text>
+		<text pos='184,229'>自</text>
+		<text pos='200,229'>号</text>
+		<text pos='216,229'>着</text>
+		<text pos='232,229'>小</text>
+		<text pos='248,229'>说</text>
+		<text pos='264,229'>王</text>
+		<text pos='280,229'>，</text>
+		<text pos='296,229'>专</text>
+		<text pos='312,229'>门</text>
+		<text pos='328,229'>编</text>
+		<text pos='344,229'>译</text>
+		<text pos='360,229'>这</text>
+		<text pos='376,229'>种</text>
+		<text pos='392,229'>新</text>
+		<text pos='408,229'>鲜</text>
+		<text pos='424,229'>小</text>
+	</line>
+	<line pos='40,240' size='400,16' baseline='14' txt='5414,75'>
+		<setfont name='FZLanTingHei-R-GBK' size='16'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='40,254'>说</text>
+		<text pos='56,254'>。</text>
+		<text pos='72,254'>我</text>
+		<text pos='88,254'>只</text>
+		<text pos='104,254'>要</text>
+		<text pos='120,254'>细</text>
+		<text pos='136,254'>细</text>
+		<text pos='152,254'>告</text>
+		<text pos='168,254'>诉</text>
+		<text pos='184,254'>了</text>
+		<text pos='200,254'>他</text>
+		<text pos='216,254'>，</text>
+		<text pos='232,254'>不</text>
+		<text pos='248,254'>怕</text>
+		<text pos='264,254'>他</text>
+		<text pos='280,254'>不</text>
+		<text pos='296,254'>一</text>
+		<text pos='312,254'>回</text>
+		<text pos='328,254'>一</text>
+		<text pos='344,254'>回</text>
+		<text pos='360,254'>的</text>
+		<text pos='376,254'>慢</text>
+		<text pos='392,254'>慢</text>
+		<text pos='408,254'>地</text>
+		<text pos='424,254'>编</text>
+	</line>
+	<line pos='40,265' size='400,17' baseline='15' txt='5489,72'>
+		<setfont name='FZLanTingHei-R-GBK' size='16'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='40,280'>出</text>
+		<text pos='56,280'>来</text>
+		<text pos='73,280'>，</text>
+		<text pos='90,280'>岂</text>
+		<text pos='107,280'>不</text>
+		<text pos='124,280'>省</text>
+		<text pos='141,280'>了</text>
+		<text pos='158,280'>我</text>
+		<text pos='175,280'>无</text>
+		<text pos='192,280'>数</text>
+		<text pos='209,280'>笔</text>
+		<text pos='226,280'>墨</text>
+		<text pos='242,280'>吗</text>
+		<text pos='259,280'>？</text>
+		<text pos='269,280'>”</text>
+		<text pos='288,280'>当</text>
+		<text pos='305,280'>时</text>
+		<text pos='322,280'>就</text>
+		<text pos='339,280'>携</text>
+		<text pos='356,280'>了</text>
+		<text pos='373,280'>写</text>
+		<text pos='390,280'>出</text>
+		<text pos='407,280'>的</text>
+		<text pos='424,280'>稿</text>
+	</line>
+	<line pos='40,290' size='400,16' baseline='14' txt='5561,75'>
+		<setfont name='FZLanTingHei-R-GBK' size='16'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='40,304'>子</text>
+		<text pos='56,304'>，</text>
+		<text pos='72,304'>一</text>
+		<text pos='88,304'>径</text>
+		<text pos='104,304'>出</text>
+		<text pos='120,304'>门</text>
+		<text pos='136,304'>，</text>
+		<text pos='152,304'>望</text>
+		<text pos='168,304'>着</text>
+		<text pos='184,304'>小</text>
+		<text pos='200,304'>说</text>
+		<text pos='216,304'>林</text>
+		<text pos='232,304'>发</text>
+		<text pos='248,304'>行</text>
+		<text pos='264,304'>所</text>
+		<text pos='280,304'>来</text>
+		<text pos='296,304'>，</text>
+		<text pos='312,304'>找</text>
+		<text pos='328,304'>着</text>
+		<text pos='344,304'>他</text>
+		<text pos='360,304'>的</text>
+		<text pos='376,304'>朋</text>
+		<text pos='392,304'>友</text>
+		<text pos='408,304'>东</text>
+		<text pos='424,304'>亚</text>
+	</line>
+	<line pos='40,315' size='400,16' baseline='14' txt='5636,75'>
+		<setfont name='FZLanTingHei-R-GBK' size='16'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='40,329'>病</text>
+		<text pos='56,329'>夫</text>
+		<text pos='72,329'>，</text>
+		<text pos='88,329'>告</text>
+		<text pos='104,329'>诉</text>
+		<text pos='120,329'>他</text>
+		<text pos='136,329'>，</text>
+		<text pos='152,329'>叫</text>
+		<text pos='168,329'>他</text>
+		<text pos='184,329'>发</text>
+		<text pos='200,329'>布</text>
+		<text pos='216,329'>那</text>
+		<text pos='232,329'>一</text>
+		<text pos='248,329'>段</text>
+		<text pos='264,329'>新</text>
+		<text pos='280,329'>奇</text>
+		<text pos='296,329'>历</text>
+		<text pos='312,329'>史</text>
+		<text pos='328,329'>。</text>
+		<text pos='344,329'>爱</text>
+		<text pos='360,329'>自</text>
+		<text pos='376,329'>由</text>
+		<text pos='392,329'>者</text>
+		<text pos='408,329'>一</text>
+		<text pos='424,329'>面</text>
+	</line>
+	<line pos='40,340' size='400,16' baseline='14' txt='5711,42'>
+		<setfont name='FZLanTingHei-R-GBK' size='16'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='40,354'>说</text>
+		<text pos='56,354'>，</text>
+		<text pos='72,354'>东</text>
+		<text pos='88,354'>亚</text>
+		<text pos='104,354'>病</text>
+		<text pos='120,354'>夫</text>
+		<text pos='136,354'>就</text>
+		<text pos='152,354'>一</text>
+		<text pos='168,354'>面</text>
+		<text pos='184,354'>写</text>
+		<text pos='200,354'>。</text>
+		<text pos='216,354'>正</text>
+		<text pos='232,354'>是</text>
+		<text pos='248,354'>：</text>
+	</line>
+	<line pos='40,381' size='400,16' baseline='14' txt='5759,39'>
+		<setfont name='FZLanTingHei-R-GBK' size='16'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='72,395'>三</text>
+		<text pos='88,395'>十</text>
+		<text pos='104,395'>年</text>
+		<text pos='120,395'>旧</text>
+		<text pos='136,395'>事</text>
+		<text pos='152,395'>，</text>
+		<text pos='168,395'>写</text>
+		<text pos='184,395'>来</text>
+		<text pos='200,395'>都</text>
+		<text pos='216,395'>是</text>
+		<text pos='232,395'>血</text>
+		<text pos='248,395'>痕</text>
+		<text pos='264,395'>；</text>
+	</line>
+	<line pos='40,422' size='400,16' baseline='14' txt='5804,39'>
+		<setfont name='FZLanTingHei-R-GBK' size='16'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='72,436'>四</text>
+		<text pos='88,436'>百</text>
+		<text pos='104,436'>兆</text>
+		<text pos='120,436'>同</text>
+		<text pos='136,436'>胞</text>
+		<text pos='152,436'>，</text>
+		<text pos='168,436'>愿</text>
+		<text pos='184,436'>尔</text>
+		<text pos='200,436'>早</text>
+		<text pos='216,436'>登</text>
+		<text pos='232,436'>觉</text>
+		<text pos='248,436'>岸</text>
+		<text pos='264,436'>！</text>
+	</line>
+	<line pos='40,463' size='400,16' baseline='14' txt='5849,69'>
+		<setfont name='FZLanTingHei-R-GBK' size='16'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='72,477'>端</text>
+		<text pos='88,477'>的</text>
+		<text pos='104,477'>上</text>
+		<text pos='120,477'>面</text>
+		<text pos='136,477'>写</text>
+		<text pos='152,477'>的</text>
+		<text pos='168,477'>是</text>
+		<text pos='184,477'>些</text>
+		<text pos='200,477'>什</text>
+		<text pos='216,477'>么</text>
+		<text pos='232,477'>？</text>
+		<text pos='248,477'>列</text>
+		<text pos='264,477'>位</text>
+		<text pos='280,477'>不</text>
+		<text pos='296,477'>嫌</text>
+		<text pos='312,477'>烦</text>
+		<text pos='328,477'>絮</text>
+		<text pos='344,477'>，</text>
+		<text pos='360,477'>看</text>
+		<text pos='376,477'>他</text>
+		<text pos='392,477'>逐</text>
+		<text pos='408,477'>回</text>
+		<text pos='424,477'>道</text>
+	</line>
+	<line pos='40,488' size='400,16' baseline='14' txt='5918,6'>
+		<setfont name='FZLanTingHei-R-GBK' size='16'/>
+		<setcolor val='rgb(255,255,255)'/>
+		<text pos='40,502'>来</text>
+		<text pos='56,502'>。</text>
+	</line>
+</page>
+<times page_count='4' cost_time='4ms'></times>
+
+</athena>

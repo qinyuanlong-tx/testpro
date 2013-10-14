@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>App2</title>
+    <!--<link href="style.css" rel="stylesheet" type="text/css" />-->
+    <!--<script src="http://code.createjs.com/easeljs-0.7.0.min.js"></script>-->
+
+    <script src="lib/easeljs-0.7.0.min.js"></script>
+    <script src="src/Book.js"></script>
+    <script src="src/Page.js"></script>
+    <script src="src/Line.js"></script>
+    <script src="src/GPWord.js"></script>
+    <script src="src/Main.js"></script>
+    <script src="src/Comments.js"></script>
+    <script src="src/Chapter.js"></script>
+    <script src="src/Global.js"></script>
+    <script src="src/Word.js"></script>
+    <script src="src/UnderLine.js"></script>
+    <script src="src/Catalogue.js"></script>
+    <script>
+        window.onload = function(){
+            Main.main();
+        }
+    </script>
+</head>
+<body style="text-align: center">
+
+<div style="padding: 0 0 0 0;height: 1000px">
+
+<div style="float: left">
+<div id = "catalogue"></div>
+<div id = "mainDiv" style="background-color: #f5f5f5;display: none">
+    <canvas id="mainCanvas" width="600px" height="700px"></canvas>
+</div>
+</div>
+
+<div style="padding-top: 100px;width: 150px;float: left;font-family: '微软雅黑'">
+    <a href="#" onclick="Main.toCatalog();">回目录</a><br/><br/>
+    <a href="#" onclick="Main.preChapter();">上一章</a><br/><br/>
+    <a href="#" onclick="Main.nextChapter();">下一章</a><br/><br/>
+    <a href="#">上一页</a><br/><br/>
+    <a href="#">下一页</a><br/><br/>
+</div>
+
+</div>
+
+<div id="mytips" class = "box">
+    <ul>
+        <li>
+            <button>划线</button>
+        </li>
+        <li>
+            <button>批注</button>
+        </li>
+        <li>
+            <button>分享</button>
+        </li>
+        <li>
+            <button>复制</button>
+        </li>
+        <li style="border-right: 0px solid blue">
+            <button>纠错</button>
+        </li>
+    </ul>
+</div>
+
+
+
+
+
+</body>
+</html>

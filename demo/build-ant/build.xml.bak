@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="Javascritp_build" default="compress" basedir="D:/develop/createjsTest/App2">
+     
+    <description>Javascritp build for Ant</description>
+     
+    <property name="src" location="src"/>
+    <property name="build" location="build"/>
+    <property name="lib" location="lib"/>
+    <property name="charset" value="utf-8"/>
+	<property name="core.files" value="AppFacade.js,Main.js" />
+	<property name="yuicompressor" value="build-ant/yuicompressor-2.4.2.jar" />  
+     
+    <target name="init">
+	 <echo message="start init" />
+		<delete dir="${build}" />
+        <mkdir dir="${build}" />
+    </target>
+     
+    <target name="concat" depends="init">
+		<echo message="start concat" />
+		<concat destfile="${build}/all.js">
+			<filelist dir="src" files="${core.files}" />
+        </concat>
+	</target>
+    
+	<target name="compress" depends="concat">
+        <echo message="start compress" />
+        <java jar="${yuicompressor}" fork="true" failonerror="false">
+            <arg line="${build}/all.js -o ${build}/core.js" />
+        </java>
+        <echo message="end compress" />
+    </target>
+  
+
+
+</project>

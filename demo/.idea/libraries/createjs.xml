@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="createjs" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://E:/opensource/EaselJS-master/src" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://D:/Opensource/createjs/EaselJS-release_v0.7.0/EaselJS-release_v0.7.0/src" />
+      <root url="file://E:/opensource/EaselJS-master/src" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
