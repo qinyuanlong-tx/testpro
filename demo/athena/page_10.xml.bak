@@ -1,6 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<athena version='1.4.0.0'>
+<athena version='1.4.0.0'></athena>
+		<save/>
 <page index='1'>
+		<save/>
+		<path verb='moveto' pos='0,0'/>
+		<path verb='lineto' pos='480,0'/>
+		<path verb='lineto' pos='480,700'/>
+		<path verb='lineto' pos='0,700'/>
+		<path verb='lineto' pos='0,0'/>
+		<path verb='close'/>
+		<clip/>
+		<setcolor val='rgb(255,255,255)'/>
+		<path verb='rect' pos='0,0' size='480,700'/>
+		<fill/>
+		<restore/>
 	<line pos='40,58' size='400,17' baseline='15' txt='6,60'>
 		<setfont name='FZLanTingHei-R-GBK' size='18'/>
 		<setcolor val='rgb(255,255,255)'/>
@@ -7562,4 +7575,3 @@
 	</line>
 </page>
 <times page_count='12' cost_time='7ms'></times>
-</athena>

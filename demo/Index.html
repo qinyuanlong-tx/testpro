@@ -18,6 +18,8 @@
     <script src="src/Word.js"></script>
     <script src="src/UnderLine.js"></script>
     <script src="src/Catalogue.js"></script>
+    <script src="src/AppEvent.js"></script>
+    <script src="src/AppEventDispatcher.js"></script>
     <script>
         window.onload = function(){
             Main.main();
@@ -39,8 +41,8 @@
     <a href="#" onclick="Main.toCatalog();">回目录</a><br/><br/>
     <a href="#" onclick="Main.preChapter();">上一章</a><br/><br/>
     <a href="#" onclick="Main.nextChapter();">下一章</a><br/><br/>
-    <a href="#">上一页</a><br/><br/>
-    <a href="#">下一页</a><br/><br/>
+    <a href="#" onclick="Main.prePage();">上一页</a><br/><br/>
+    <a href="#" onclick="Main.nextPage();">下一页</a><br/><br/>
 </div>
 
 </div>

@@ -51,6 +51,14 @@
         Main.cat.backToCatalog();
     };
 
+    Main.nextPage = function(){
+        GP.Book.getInstance().nextPage();
+    };
+
+    Main.prePage = function(){
+        GP.Book.getInstance().prePage();
+    };
+
     /**
      * Initializes the basics of the app.
      */
@@ -64,11 +72,6 @@
          */
         this.mainStage = new createjs.Stage(this.mainCanvas);
         this.mainStage.snapToPixelsEnabled = true;
-
-        /**
-         * cssFile
-         */
-       this.loadCssFile("style.css");
 
         /*
          * createjs

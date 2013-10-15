@@ -35,7 +35,8 @@ this.GP = this.GP || {};
 
     p.prePage = function(){
         if(this.currentPage - 1< 0){
-            alert("已经是第一页");
+            this.toPreChapter();
+            return;
         }
         this.showPage(--this.currentPage);
     };
@@ -43,11 +44,14 @@ this.GP = this.GP || {};
     p.nextPage = function(){
         if(this.currentPage + 1>= this.pages.length){
             this.toNextChapter();
+            return;
         }
         this.showPage(++this.currentPage);
     };
 
     p.toNextChapter = function(){};
+
+    p.toPreChapter = function(){};
 
     p.showPage = function(pageNumber){
         if(pageNumber > this.pages.length || pageNumber < 0)    return;

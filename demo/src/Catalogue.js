@@ -8,13 +8,14 @@ this.GP = this.GP || {};
 
     var Catalogue = function(){
         this.initialize();
+        GP.AppEventDispatcher.getInstance().addEventListener(GP.AppEvent.REQUEST_CHAPTER_END,this.onChapterDataLoad)
     };
 
     var p = Catalogue.prototype =  new createjs.Container();
 
-    var catalogDiv = null;
+    Catalogue.catalogDiv = null;
 
-    var mainDiv = null;
+    Catalogue.mainDiv = null;
 
     p.data = {"chapters": [
         {"chapter": "chapter 1","number":"1"},
@@ -30,19 +31,19 @@ this.GP = this.GP || {};
     ]};
 
     p.showCatalogue = function(){
-        catalogDiv = document.getElementById("catalogue");
-        catalogDiv.innerHTML = "";
-        if(catalogDiv == "undefined" || !catalogDiv)  return;
+        Catalogue.catalogDiv = document.getElementById("catalogue");
+        Catalogue.catalogDiv.innerHTML = "";
+        if(Catalogue.catalogDiv == "undefined" || !Catalogue.catalogDiv)  return;
 
-        catalogDiv.style.position = "absolute";
-        catalogDiv.style.width = GP.Global.stageWidth + "px";
-        catalogDiv.style.height = GP.Global.stageHeight + "px";
-        catalogDiv.style.top = "0px";
-        catalogDiv.style.left = "0px";
-        catalogDiv.style.zIndex = "1000";
-        catalogDiv.style.backgroundColor = "#C2C2C2";
-        catalogDiv.style.display = "block";
-        catalogDiv.style.top = 0;
+        Catalogue.catalogDiv.style.position = "absolute";
+        Catalogue.catalogDiv.style.width = GP.Global.stageWidth + "px";
+        Catalogue.catalogDiv.style.height = GP.Global.stageHeight + "px";
+        Catalogue.catalogDiv.style.top = "0px";
+        Catalogue.catalogDiv.style.left = "0px";
+        Catalogue.catalogDiv.style.zIndex = "1000";
+        Catalogue.catalogDiv.style.backgroundColor = "#C2C2C2";
+        Catalogue.catalogDiv.style.display = "block";
+        Catalogue.catalogDiv.style.top = 0;
 
         this.showTitle();
         for(var i = 0 ; i < this.data.chapters.length ; i++){
@@ -50,7 +51,13 @@ this.GP = this.GP || {};
         }
     };
 
-    p.addCloseBtn = function(){
+    p.onChapterDataLoad = function(event){
+        Catalogue.catalogDiv.style.display = "none";
+        Catalogue.mainDiv = document.getElementById("mainDiv");
+        Catalogue.mainDiv.style.display = "block";
+    };
+
+    p.showCloseBtn = function(){
 
     };
 
@@ -58,7 +65,7 @@ this.GP = this.GP || {};
         var pElement = document.createElement("p");
         pElement.style.paddingTop = "20px"
         pElement.innerHTML = "目录";
-        catalogDiv.appendChild(pElement);
+        Catalogue.catalogDiv.appendChild(pElement);
     };
 
     p.showItem = function(text,number){
@@ -71,7 +78,7 @@ this.GP = this.GP || {};
         aElement.onclick =  this.clickChapter;
         aElement.innerHTML = text;
         pElement.appendChild(aElement);
-        catalogDiv.appendChild(pElement);
+        Catalogue.catalogDiv.appendChild(pElement);
     };
 
     p.clickChapter = function(event){
@@ -80,17 +87,15 @@ this.GP = this.GP || {};
         if(chNumber == "undefined" || chNumber == null) return;
 
         Main.toChapter(Number(chNumber) - 1);
-        catalogDiv.style.display = "none";
-        mainDiv = document.getElementById("mainDiv");
-        mainDiv.style.display = "block";
+
     };
 
     p.backToCatalog = function(){
-        var displayValue = GP.Global.getElementAttr(catalogDiv,"display");
+        var displayValue = GP.Global.getElementAttr(Catalogue.catalogDiv,"display");
         if(displayValue != "none")  return;
 
-        catalogDiv.style.display = "block";
-        mainDiv.style.display = "none";
+        Catalogue.catalogDiv.style.display = "block";
+        Catalogue.mainDiv.style.display = "none";
     };
 
     GP.Catalogue = Catalogue;

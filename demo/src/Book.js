@@ -10,11 +10,13 @@ this.GP = this.GP || {};
 
     var Book = function () {
         _book = this; // var self = this; _book
-        this.chapters = [];
+        //章节对象集合
+        this.chapters = {};
+        //第几章节
         this.currentChapterNumber = 0;
+        //向服务器请求的章节
         this.requestChapterNumber = 0;
-        //this.pages = [];
-        //this.currentPage = 0;
+        this.isRequesting = false;
         this.xmlHttp = null;
         this.xmlDoc = null;
         this.initialize();
@@ -55,24 +57,26 @@ this.GP = this.GP || {};
     /*
      *   下一页
      */
-    p.onNextPage = function (event) {
-
+    p.nextPage = function (event) {
+        var chapter = this.chapters[this.currentChapterNumber.toString()];
+        chapter.nextPage();
     };
 
     /*
      *  上一页
      */
-    p.onPrePage = function (event) {
+    p.prePage = function (event) {
+        var chapter = this.chapters[this.currentChapterNumber.toString()];
+        chapter.prePage();
     };
 
     p.requestChapter = function(chapterNumber){
-        //var xmlDoc;
-        for(var i = 0 ; i < this.chapters.length ; i++){
-            if(this.chapters[i].chapterIndex == chapterNumber)  return;
-        }
+        this.requestChapterNumber = chapterNumber;
+        this.isRequesting = true;
+        if(this.currentChapterNumber == chapterNumber)  return;
 
-        this.currentChapterNumber = Number(chapterNumber);
-        this.chapters.push(new GP.Chapter());
+
+        Book.getInstance().currentChapterNumber = Number(chapterNumber);
         var xmlFileName = "athena/page_" + chapterNumber.toString() + ".xml";
 //        var xmlFileName = "page_" + pageNumber.toString() + ".xml";
         try //Internet Explorer
@@ -108,41 +112,50 @@ this.GP = this.GP || {};
     };
 
     p.nextChapter = function(){
-        this.currentChapterNumber++;
-        this.requestChapter(this.currentChapterNumber);
+        if(this.isRequesting)return;
+        if(this.currentChapterNumber >= 9)  return;
+
+        this.requestChapter(this.currentChapterNumber + 1);
+
     };
 
     p.preChapter = function(){
+        if(this.isRequesting)   return;
         if(this.currentChapterNumber <= 0)  return;
 
-        this.currentChapterNumber--;
-        this.requestChapter(this.currentChapterNumber);
+        this.requestChapter(this.currentChapterNumber - 1);
     };
 
     p.onGetFileResult = function(){
         if(this.readyState == 4){
             //这函数里this指向XMlHttpRequest对象
-            //var json = GP.Global.xmlToJson.parser(this.responseText);
-            //console.log(json);
             for(var i = Book.getInstance().getNumChildren() ; i > 0 ; i--)
             {
                 Book.getInstance().removeChildAt(0);
             }
             Book.getInstance().setData(this.responseXML);
-            console.log(this.responseXML);
+            Book.getInstance().isRequesting = false;
+            this.currentChapterNumber = this.requestChapterNumber;
+            GP.AppEventDispatcher.getInstance().quickDispatch(GP.AppEvent.REQUEST_CHAPTER_END,null);
         }
     };
 
     p.setData = function(xmlData){
-        //setInterval('',3000);
-        this.currentChapterNumber = this.requestChapterNumber;
         this.removeAllChildren();
-        var chapter = new GP.Chapter();
+
+        var chapter = null;
+        if(this.chapters[this.currentChapterNumber.toString()] == "undefined" || this.chapters[this.currentChapterNumber.toString()] == null ){
+            chapter  = new GP.Chapter();
+            this.chapters[this.currentChapterNumber.toString()] = chapter;
+        }
+        else{
+            chapter = this.chapters[this.currentChapterNumber.toString()];
+        }
+
+        chapter = this.chapters[this.currentChapterNumber.toString()];
         chapter.setData(xmlData);
         this.addChild(chapter);
     };
-
-
 
     GP.Book = Book;
 
