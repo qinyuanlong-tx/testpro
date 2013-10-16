@@ -22,7 +22,7 @@ this.GP = this.GP || {};
     var p = Line.prototype = new createjs.Container();
 
     p.onClick = function (event) {
-        console.log(event);
+        //console.log(event);
     };
 
     p.setData = function(data){
@@ -44,7 +44,7 @@ this.GP = this.GP || {};
             //word.y = Number(posY);
             this.addChild(word);
             this.words.push(word);
-            console.log(text);
+            //console.log(text);
         }
     }
 
@@ -156,6 +156,10 @@ this.GP = this.GP || {};
                 this.words[i].setPreSelected(false);
             }
         }
+
+    };
+
+    p.checkHitUnderLine = function(point){
 
     };
 

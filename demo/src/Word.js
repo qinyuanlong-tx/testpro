@@ -93,7 +93,7 @@ this.GP = this.GP || {};
     };
 
     p.onClick = function(event){
-        console.log('...');
+        //console.log('...');
     };
 
     p.drawBackground = function(){

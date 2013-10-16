@@ -30,7 +30,7 @@ this.GP = this.GP || {};
             newPage.setData(childnode);
             this.pages.push(newPage);
         }
-        this.showPage(this.currentPage);
+//        this.showPage(this.currentPage);
     };
 
     p.prePage = function(){
@@ -49,9 +49,21 @@ this.GP = this.GP || {};
         this.showPage(++this.currentPage);
     };
 
-    p.toNextChapter = function(){};
+    p.toNextChapter = function(){
+        GP.Book.getInstance().nextChapter();
+    };
 
-    p.toPreChapter = function(){};
+    p.toPreChapter = function(){
+        GP.Book.getInstance().preChapterFromNext();
+    };
+
+    p.setPageAsFirst = function(){
+        this.showPage(0);
+    };
+
+    p.setPageAsLast = function(){
+        this.showPage(this.pages.length - 1);
+    };
 
     p.showPage = function(pageNumber){
         if(pageNumber > this.pages.length || pageNumber < 0)    return;

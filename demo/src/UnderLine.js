@@ -7,6 +7,7 @@ this.GP = this.GP || {};
 (function () {
     var UnderLine = function () {
         this.initialize();
+        //
         //是否当前用户正在画的线，用于判断是否擦除
         this.isCurrentDraw = false;
         this.startWord = new GP.Word();
@@ -52,7 +53,7 @@ this.GP = this.GP || {};
 
         this.lineDrawed.graphics.setStrokeStyle(1, 'round').beginStroke("#000").moveTo(this.drawFromX, this.drawFromY).lineTo(this.drawToX, this.drawToY).endStroke();
         if (!this.lineDrawed.parent) {
-            this.addChild(this.lineDrawed)
+            this.addChild(this.lineDrawed);
         }
     };
 

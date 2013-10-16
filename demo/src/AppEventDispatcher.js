@@ -24,7 +24,6 @@ this.GP = this.GP || {};
 
     p.initialize = function(){
         this.id = createjs.UID.get();
-
     };
 
     p.quickDispatch = function(type,data){

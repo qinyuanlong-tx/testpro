@@ -97,9 +97,20 @@ this.GP = this.GP || {};
     }
 
     p.onClickTest = function (event) {
+        var page = event.currentTarget;
+        console.log("== Page ==     click page");
+        //查看是否点击到划线区，点到就弹出批注框
+        for(var i = 0 ; i < page.lines.length ; i++){
+            var linePoint = page.lines[i].globalToLocal(event.stageX,event.stageY);
+            var hitRst = page.lines[i].hitTest(linePoint.x,linePoint.y);
+            if(hitRst)  break;
+        }
 
+    };
 
-    }
+    p.checkHitUnderLine = function(){
+
+    };
 
     p.onPressMove = function (event) {
         var page = event.currentTarget;

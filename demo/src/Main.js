@@ -35,6 +35,7 @@
     */
     Main.toChapter = function(chapterNumber){
         var book = GP.Book.getInstance();
+        if(book.isRequesting)   return;
         book.requestChapter(chapterNumber);
         Main.instance.mainStage.addChild(book);
     };

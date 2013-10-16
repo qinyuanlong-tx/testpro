@@ -13,10 +13,13 @@ this.GP = this.GP || {};
         //章节对象集合
         this.chapters = {};
         //第几章节
-        this.currentChapterNumber = 0;
+        this.currentChapterNumber = -1;
         //向服务器请求的章节
         this.requestChapterNumber = 0;
+        //向服务器请求但是消息还没返回
         this.isRequesting = false;
+        //是否跳到该章最后一页，从后一章翻上一页要跳到当前章最后一页
+        this.isToLastPage = false;
         this.xmlHttp = null;
         this.xmlDoc = null;
         this.initialize();
@@ -112,17 +115,24 @@ this.GP = this.GP || {};
     };
 
     p.nextChapter = function(){
-        if(this.isRequesting)return;
-        if(this.currentChapterNumber >= 9)  return;
+        //TODO:>=9写死要修改
+        if(this.isRequesting || this.currentChapterNumber >=9)return;
 
         this.requestChapter(this.currentChapterNumber + 1);
 
     };
 
     p.preChapter = function(){
-        if(this.isRequesting)   return;
-        if(this.currentChapterNumber <= 0)  return;
+        if(this.isRequesting || this.currentChapterNumber <= 0)   return;
 
+        this.requestChapter(this.currentChapterNumber - 1);
+    };
+
+    //从下一章翻页返回的上一章，这时候要翻到该章的最后一页
+    p.preChapterFromNext = function(){
+        if(this.isRequesting || this.currentChapterNumber <= 0)   return;
+
+        this.isToLastPage = true;
         this.requestChapter(this.currentChapterNumber - 1);
     };
 
@@ -137,6 +147,8 @@ this.GP = this.GP || {};
             Book.getInstance().isRequesting = false;
             this.currentChapterNumber = this.requestChapterNumber;
             GP.AppEventDispatcher.getInstance().quickDispatch(GP.AppEvent.REQUEST_CHAPTER_END,null);
+            this.isRequesting = false;
+            this.isToLastPage = false;
         }
     };
 
@@ -154,6 +166,13 @@ this.GP = this.GP || {};
 
         chapter = this.chapters[this.currentChapterNumber.toString()];
         chapter.setData(xmlData);
+        if(!this.isToLastPage){
+            chapter.setPageAsFirst();
+        }
+        else{
+            chapter.setPageAsLast();
+        }
+        this.isToLastPage = false;
         this.addChild(chapter);
     };
 
