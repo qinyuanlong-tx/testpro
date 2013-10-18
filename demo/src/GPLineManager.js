@@ -22,4 +22,4 @@ this.GP = this.GP || {};
     //p.isLineInSelectArea =
 
     GP.GPLineManager = GPLineManager;
-});
+})();

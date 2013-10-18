@@ -12,6 +12,8 @@ this.GP = this.GP || {};
 
     /*const*/ AppEvent.REQUEST_CHAPTER_END = "request_chapter_end";
 
+    AppEvent.SHOW_COMMENT = "show_comment";
+
     var p = AppEvent.prototype = new createjs.Event();
 
     p.data = null;

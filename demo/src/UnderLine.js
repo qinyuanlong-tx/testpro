@@ -18,6 +18,7 @@ this.GP = this.GP || {};
         this.drawFromY = 0;
         this.drawToX = 0;
         this.drawToY = 0;
+        this.drawRegions = [];
     };
 
     var p = UnderLine.prototype = new createjs.Container();
@@ -52,8 +53,18 @@ this.GP = this.GP || {};
         this.eraseUnderLine();
 
         this.lineDrawed.graphics.setStrokeStyle(1, 'round').beginStroke("#000").moveTo(this.drawFromX, this.drawFromY).lineTo(this.drawToX, this.drawToY).endStroke();
+        this.drawRegions.push(this.startWord.clone(),this.endWord.clone());
         if (!this.lineDrawed.parent) {
             this.addChild(this.lineDrawed);
+        }
+    };
+
+    p.tryGetClickWord = function(point){
+        var len = this.drawRegions.length;
+        for(var i = 0 ; i < len ; i++){
+            if(point.x >= this.drawRegions[i][0].x && point.x <= this.drawRegions[i][1]){
+                GP.AppEventDispatcher.getInstance().quickDispatch(GP.AppEvent.SHOW_COMMENT,this.drawRegions[i][0]);
+            }
         }
     };
 

@@ -79,7 +79,7 @@
          */
         createjs.Ticker.addEventListener("tick", this.mainStage);
         createjs.Ticker.useRAF = true;
-        createjs.Ticker.setFPS(30);
+        createjs.Ticker.setFPS(10);
 
         GP.Global.stage = this.mainStage;
     }

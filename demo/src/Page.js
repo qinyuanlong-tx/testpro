@@ -23,15 +23,27 @@ this.GP = this.GP || {};
         this.comment = new GP.Comments();
         this.startLine = 0;
         this.endLine = 0;
+        //本页字数统计
+        this.totalWords = 0;
 
-        this.addEventListener("mousedown", this.onMouseDown);
-        this.addEventListener("pressmove", this.onPressMove);
-        this.addEventListener("pressup", this.onPressUp);
-        this.addEventListener("click", this.onClickTest);
+//        this.addEventListener("mousedown", this.onMouseDown);
+//        this.addEventListener("pressmove", this.onPressMove);
+//        this.addEventListener("pressup", this.onPressUp);
+        this.addEventListener("click",this.moveTest);
         this.drawBackground();
     };
 
     var p = Page.prototype = new createjs.Container();
+
+    p.moveTest = function(event){
+        var page = event.currentTarget;
+        if(!page.myshape.parent)
+        page.addChild(this.myshape);
+        page.myshape.graphics.clear();
+        page.myshape.graphics.setStrokeStyle(2,"round").beginStroke("red").moveTo(0,0).lineTo(Math.random()*100,Math.random()*100).endStroke();
+    };
+
+    p.myshape = new createjs.Shape();
 
     p.container_init = p.initialize;
 
@@ -92,20 +104,19 @@ this.GP = this.GP || {};
         page.endPoint.y = 0;
     }
 
-    p.drawPage = function (event) {
-
-    }
-
     p.onClickTest = function (event) {
         var page = event.currentTarget;
-        console.log("== Page ==     click page");
+        var line = null;
         //查看是否点击到划线区，点到就弹出批注框
         for(var i = 0 ; i < page.lines.length ; i++){
             var linePoint = page.lines[i].globalToLocal(event.stageX,event.stageY);
             var hitRst = page.lines[i].hitTest(linePoint.x,linePoint.y);
-            if(hitRst)  break;
+            if(hitRst) {
+                line = page.lines[i];
+                //var commentObj = line.tryGetCommentData(linePointn);
+                break;
+            }
         }
-
     };
 
     p.checkHitUnderLine = function(){
@@ -113,6 +124,7 @@ this.GP = this.GP || {};
     };
 
     p.onPressMove = function (event) {
+        createjs.Ticker.setFPS(10);
         var page = event.currentTarget;
         page.isPressMove = true;
         page.endPoint = page.globalToLocal(GP.Global.stage.mouseX,GP.Global.stage.mouseY);
@@ -204,7 +216,7 @@ this.GP = this.GP || {};
         for( i = 1 ; lastLineIndex + i < page.lines.length ; i++) {
             page.lines[lastLineIndex + i].eraseUnderLine();
         }
-
+//        GP.Global.stage.update();
     };
 
     p.erasePreUnderLines = function (firstLineIndex, lastLineIndex) {
@@ -219,11 +231,14 @@ this.GP = this.GP || {};
     };
 
     p.onPressUp = function (event) {
+        createjs.Ticker.setFPS(1);
         var page = event.currentTarget;
-
+        if(page.isPressMove){
             for (var i = page.startLine; i <= page.endLine; i++) {
                 page.lines[i].cloneCurrentLine();
             }
+            page.isPressMove = false;
+        }
     };
 
     //弹出批注框
@@ -255,6 +270,8 @@ this.GP = this.GP || {};
     p.drawUnderLine = function () {
 
     };
+
+    p.getWordLocalToGlobal = function(){};
 
     GP.Page = Page;
 

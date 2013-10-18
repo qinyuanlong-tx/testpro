@@ -16,13 +16,15 @@ this.GP = this.GP || {};
         this.underLines = [];
         this.currentUnderLine = new GP.UnderLine();
         this.addChild(this.currentUnderLine);
-        //this.addEventListener("click",this.onClick);
+        this.addEventListener("click",this.onClick);
     };
 
     var p = Line.prototype = new createjs.Container();
 
     p.onClick = function (event) {
-        //console.log(event);
+        var line = event.currentTarget;
+        console.log("Line.onClick:"+event);
+        line.tryGetCommentData();
     };
 
     p.setData = function(data){
@@ -150,16 +152,16 @@ this.GP = this.GP || {};
         for (var i = 0; i < this.words.length; i++) {
             if (this.words[i].x > startRegion && this.words[i].x < endRegion) {
                 this.words[i].setPreSelected(true);
-
             }
             else{
                 this.words[i].setPreSelected(false);
             }
         }
-
     };
 
-    p.checkHitUnderLine = function(point){
+    p.tryGetCommentData = function(){
+        var point = this.globalToLocal(GP.Global.stage.mouseX,GP.Global.stage.mouseY);
+        var len = this.words.length;
 
     };
 

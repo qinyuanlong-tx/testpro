@@ -10,6 +10,10 @@ this.GP = this.GP || {};
 
     var p = Comments.prototype = new createjs.Container();
 
+    p.data = null;
+
+    p.chapter = null;
+
     p.container_initialize = p.initialize;
 
     p.initialize = function(){
@@ -42,6 +46,10 @@ this.GP = this.GP || {};
         Comments.tip.style.left = offX + "px";
         Comments.tip.style.top = offY + "px" ;
         Comments.tip.style.zIndex = "1000";
+    };
+
+    p.showCommentByWord = function(word){
+
     };
 
     p.onClose = function(){
